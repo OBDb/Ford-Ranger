@@ -1,0 +1,25 @@
+generations:
+  - name: "First Generation (North America)"
+    start_year: 1983
+    end_year: 1992
+    description: "The original Ford Ranger was introduced as a replacement for the Ford Courier, marking Ford's entry into the compact pickup segment with its own design. Available in regular cab configuration with 6 or 7-foot beds, and later extended cab (SuperCab) with a 6-foot bed. Engine options included a 2.0L or 2.3L four-cylinder, a 2.8L or 2.9L V6, and even a 2.2L diesel in early models. The Ranger featured conventional body-on-frame construction with Twin-I-Beam front suspension for 2WD models and Twin-Traction Beam for 4WD variants. This generation established the Ranger's reputation for durability and versatility while offering a more manageable size than full-size pickups."
+
+  - name: "Second Generation (North America)"
+    start_year: 1993
+    end_year: 1997
+    description: "The second-generation Ranger featured updated styling with a more aerodynamic front end while maintaining the same basic chassis architecture. Engine options evolved to include a 2.3L and 3.0L V6, with a 4.0L V6 available in higher trims. The interior was significantly improved with better ergonomics and safety features, including the eventual addition of a driver's side airbag. This generation introduced the sporty Splash variant with unique styling, stepside bed, and lowered suspension. The second generation maintained the Ranger's position as one of America's most popular compact pickups."
+
+  - name: "Third Generation (North America)"
+    start_year: 1998
+    end_year: 2011
+    description: "The third and final generation of the original North American Ranger received updated styling, chassis improvements, and expanded feature content. Engine options included a 2.3L (later 2.5L) four-cylinder and 3.0L and 4.0L V6 options. The SuperCab model added rear-hinged doors for improved access to the rear seats. Special editions included the off-road-oriented FX4, street-focused Edge, and various appearance packages. Despite minimal changes in its later years, the Ranger maintained steady sales as a reliable, affordable option in the compact truck segment before its discontinuation in the North American market in 2011."
+
+  - name: "Global Ranger (T6) First Generation"
+    start_year: 2011
+    end_year: 2022
+    description: "The T6 Ranger was developed as a global midsize pickup by Ford Australia, representing a significant advancement over the previous North American model. Initially not sold in North America, it featured modern styling, improved capabilities, and advanced technology. Engine options included various Duratorq diesel engines and EcoBoost gasoline engines depending on the market. The interior offered significantly improved quality, comfort, and features. The T6 Ranger returned to North America for the 2019 model year with market-specific modifications and the 2.3L EcoBoost engine. Special variants included the off-road-focused Raptor (not sold in North America) and Tremor (North America only)."
+
+  - name: "Global Ranger (T6.2) Second Generation"
+    start_year: 2022
+    end_year: null
+    description: "The current Ranger features evolved styling with a bolder, more truck-like appearance inspired by the larger F-150. Built on an updated version of the T6 platform, it offers improved capabilities and technology. Powertrain options vary by market but include a 2.3L EcoBoost four-cylinder, 3.0L V6 turbodiesel, and 2.0L single and bi-turbo diesel engines. The interior represents a major advancement with available 12-inch portrait-oriented touchscreen, digital instrument cluster, and improved materials. Off-road capability is enhanced in the Raptor variant, which features a twin-turbo 3.0L EcoBoost V6 and sophisticated suspension with Fox dampers. The newest Ranger balances work capability with passenger comfort and technology, positioned as a midsize truck that can serve as both a work vehicle and daily driver."
