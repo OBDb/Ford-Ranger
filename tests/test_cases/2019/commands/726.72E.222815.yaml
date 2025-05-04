@@ -1,0 +1,124 @@
+command_id: 726.72E.222815
+can_id_format: ELEVEN_BIT
+extended_addressing_enabled: false
+test_cases:
+- response: 72E05622815021B
+  expected_values:
+    RANGER_TP_RR: 26.95
+- response: '72E056228150223'
+  expected_values:
+    RANGER_TP_RR: 27.35
+- response: '72E056228150225'
+  expected_values:
+    RANGER_TP_RR: 27.45
+- response: 72E05622815022D
+  expected_values:
+    RANGER_TP_RR: 27.85
+- response: 72E05622815022F
+  expected_values:
+    RANGER_TP_RR: 27.95
+- response: '72E056228150230'
+  expected_values:
+    RANGER_TP_RR: 28
+- response: '72E056228150234'
+  expected_values:
+    RANGER_TP_RR: 28.2
+- response: '72E056228150237'
+  expected_values:
+    RANGER_TP_RR: 28.35
+- response: '72E056228150239'
+  expected_values:
+    RANGER_TP_RR: 28.45
+- response: 72E05622815023C
+  expected_values:
+    RANGER_TP_RR: 28.6
+- response: 72E05622815023F
+  expected_values:
+    RANGER_TP_RR: 28.75
+- response: '72E056228150241'
+  expected_values:
+    RANGER_TP_RR: 28.85
+- response: '72E056228150243'
+  expected_values:
+    RANGER_TP_RR: 28.95
+- response: '72E056228150244'
+  expected_values:
+    RANGER_TP_RR: 29
+- response: '72E056228150246'
+  expected_values:
+    RANGER_TP_RR: 29.1
+- response: '72E056228150248'
+  expected_values:
+    RANGER_TP_RR: 29.2
+- response: '72E056228150249'
+  expected_values:
+    RANGER_TP_RR: 29.25
+- response: 72E05622815024B
+  expected_values:
+    RANGER_TP_RR: 29.35
+- response: 72E05622815024D
+  expected_values:
+    RANGER_TP_RR: 29.45
+- response: '72E056228150250'
+  expected_values:
+    RANGER_TP_RR: 29.6
+- response: '72E056228150252'
+  expected_values:
+    RANGER_TP_RR: 29.7
+- response: '72E056228150255'
+  expected_values:
+    RANGER_TP_RR: 29.85
+- response: '72E056228150257'
+  expected_values:
+    RANGER_TP_RR: 29.95
+- response: '72E056228150258'
+  expected_values:
+    RANGER_TP_RR: 30
+- response: 72E05622815025A
+  expected_values:
+    RANGER_TP_RR: 30.1
+- response: 72E05622815025C
+  expected_values:
+    RANGER_TP_RR: 30.2
+- response: 72E05622815025F
+  expected_values:
+    RANGER_TP_RR: 30.35
+- response: '72E056228150261'
+  expected_values:
+    RANGER_TP_RR: 30.45
+- response: '72E056228150262'
+  expected_values:
+    RANGER_TP_RR: 30.5
+- response: '72E056228150264'
+  expected_values:
+    RANGER_TP_RR: 30.6
+- response: '72E056228150266'
+  expected_values:
+    RANGER_TP_RR: 30.7
+- response: '72E056228150269'
+  expected_values:
+    RANGER_TP_RR: 30.85
+- response: 72E05622815026B
+  expected_values:
+    RANGER_TP_RR: 30.95
+- response: 72E05622815026D
+  expected_values:
+    RANGER_TP_RR: 31.05
+- response: 72E05622815026E
+  expected_values:
+    RANGER_TP_RR: 31.1
+- response: '72E056228150270'
+  expected_values:
+    RANGER_TP_RR: 31.2
+- response: '72E056228150273'
+  expected_values:
+    RANGER_TP_RR: 31.35
+- response: '72E056228150275'
+  expected_values:
+    RANGER_TP_RR: 31.45
+- response: '72E056228150278'
+  expected_values:
+    RANGER_TP_RR: 31.6
+- response: 72E05622815027A
+  expected_values:
+    RANGER_TP_RR: 31.7
