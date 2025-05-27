@@ -1,6 +1,4 @@
 model_year: 2004
-can_id_format: ELEVEN_BIT
-extended_addressing_enabled: false
 unsupported_commands_by_ecu:
   726:
   - 726.72E.222816
