@@ -1,0 +1,10 @@
+command_id: 7DF.22F45C
+test_cases:
+- expected_values:
+    RANGER_EOP: 40
+  response: |-
+    22F45C1
+    7E80462F45C28
+- expected_values:
+    RANGER_EOP: 40
+  response: 7E80462F45C28
