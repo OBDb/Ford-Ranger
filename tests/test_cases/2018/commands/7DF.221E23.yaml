@@ -1,0 +1,22 @@
+command_id: 7DF.221E23
+test_cases:
+- expected_values:
+    RANGER_GEAR_SHFT: 46
+  response: |-
+    221E231
+    7E904621E232E
+- expected_values:
+    RANGER_GEAR_SHFT: 10
+  response: 7E904621E230A
+- expected_values:
+    RANGER_GEAR_SHFT: 46
+  response: 7E904621E232E
+- expected_values:
+    RANGER_GEAR_SHFT: 50
+  response: 7E904621E2332
+- expected_values:
+    RANGER_GEAR_SHFT: 60
+  response: 7E904621E233C
+- expected_values:
+    RANGER_GEAR_SHFT: 70
+  response: 7E904621E2346
