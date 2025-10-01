@@ -1,10 +1,16 @@
 command_id: 7DF.221E12
 test_cases:
 - expected_values:
-    RANGER_GEAR: 2
+    RANGER_GEAR: 6
+  response: |-
+    221E12
+    7E804621E1206
+    7E904621E1206
+- expected_values:
+    RANGER_GEAR: 1
   response: |-
     221E121
-    7E804621E1202
+    7E804621E1201
 - expected_values:
     RANGER_GEAR: 4
   response: |-
