@@ -3,16 +3,31 @@ test_cases:
 - expected_values:
     RANGER_TOT: 4
   response: |-
+    221E1C
+    7E905621E1C04CC
+- expected_values:
+    RANGER_TOT: 1
+  response: |-
     221E1C1
-    7E905621E1C0417
+    7E905621E1C016C
 - expected_values:
     RANGER_TOT: 4
   response: |-
     221E1C1
     7E905621E1C0450
 - expected_values:
+    RANGER_TOT: 4
+  response: |-
+    221E1C1
+    7E905621E1C04E2
+- expected_values:
+    RANGER_TOT: 4
+  response: |-
+    221E1C1
+    7E905621E1C04EF
+- expected_values:
     RANGER_TOT: 1
-  response: 7E905621E1C0137
+  response: 7E905621E1C0117
 - expected_values:
     RANGER_TOT: 2
   response: 7E905621E1C0200

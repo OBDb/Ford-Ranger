@@ -1,10 +1,20 @@
 command_id: 7DF.22F42F
 test_cases:
 - expected_values:
+    RANGER_FLI: 149
+  response: |-
+    22F42F1
+    7E80462F42F95
+- expected_values:
     RANGER_FLI: 158
   response: |-
     22F42F1
     7E80462F42F9E
+- expected_values:
+    RANGER_FLI: 164
+  response: |-
+    22F42F1
+    7E80462F42FA4
 - expected_values:
     RANGER_FLI: 4
   response: 7E80462F42F04
