@@ -52,6 +52,9 @@ supported_commands_by_ecu:
   - 019D:FUEL_RATE_ALT,VFUEL_RATE
   - 019E:EXH_RATE
   - 01A6:ODO
+  - 7E0.7E8.221E12:RANGER_GEAR
+  - 7E0.7E8.221E1C:RANGER_TOT
+  - 7E0.7E8.221E23:RANGER_GEAR_SHFT
 unsupported_commands_by_ecu:
   "720":
   - 720.728.22404C
