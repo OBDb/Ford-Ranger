@@ -118,6 +118,7 @@ supported_commands_by_ecu:
   - 0146:AAT
   - 0149:APP_D
   - 7E6.7EE.010D
+  - 7E6.7EE.0131
 unsupported_commands_by_ecu:
   "720":
   - 720.728.22404C:RANGER_ODO
@@ -127,5 +128,4 @@ unsupported_commands_by_ecu:
   "7DF":
   - 7DF.221310:RANGER_EOT
   "7E6":
-  - 7E6.7EE.0131
   - 7E6.7EE.0142
