@@ -6,3 +6,6 @@ test_cases:
 - expected_values:
     RANGER_TP_FR: 31.6
   response: '72E056228140278'
+- expected_values:
+    RANGER_TP_FR: 41.6
+  response: '72E056228140340'
