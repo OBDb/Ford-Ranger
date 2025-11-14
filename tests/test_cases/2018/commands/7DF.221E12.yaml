@@ -17,8 +17,8 @@ test_cases:
     221E121
     7E804621E1204
 - expected_values:
-    RANGER_GEAR: 1
-  response: 7E804621E1201
+    RANGER_GEAR: 0
+  response: 7E804621E1200
 - expected_values:
     RANGER_GEAR: 1
   response: |-
