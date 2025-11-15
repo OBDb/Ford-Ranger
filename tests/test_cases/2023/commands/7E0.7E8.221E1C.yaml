@@ -6,3 +6,6 @@ test_cases:
 - expected_values:
     RANGER_TOT: 83.25
   response: 7E805621E1C0534
+- expected_values:
+    RANGER_TOT: 92
+  response: 7E805621E1C05C0
