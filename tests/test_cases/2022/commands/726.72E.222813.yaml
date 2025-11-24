@@ -1,0 +1,5 @@
+command_id: 726.72E.222813
+test_cases:
+- expected_values:
+    RANGER_TP_FL: 29.35
+  response: 72E05622813024B
