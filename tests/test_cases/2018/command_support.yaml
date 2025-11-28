@@ -101,6 +101,7 @@ supported_commands_by_ecu:
   - 0133:BARO
   - 0142:VPWR
   - 0149:APP_D
+  - 7E1.7E9.0104
   - 7E1.7E9.010D
   - 7E1.7E9.0131
   - 7E1.7E9.0142
@@ -131,7 +132,6 @@ unsupported_commands_by_ecu:
   "7DF":
   - 7DF.221310:RANGER_EOT
   "7E1":
-  - 7E1.7E9.0104
   - 7E1.7E9.0105
   "7E6":
   - 7E6.7EE.0104
