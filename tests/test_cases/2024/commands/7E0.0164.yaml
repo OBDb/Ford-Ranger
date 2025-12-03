@@ -1,0 +1,9 @@
+command_id: 7E0.0164
+test_cases:
+- expected_values:
+    TQ_MAX1: 9
+    TQ_MAX2: 13
+    TQ_MAX3: 11
+    TQ_MAX4: 12
+    TQ_MAX5: 13
+  response: 7E8074164868A88898A
