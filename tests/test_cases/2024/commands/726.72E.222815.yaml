@@ -1,8 +1,8 @@
 command_id: 726.72E.222815
 test_cases:
 - expected_values:
-    RANGER_TP_RR: 33.65
-  response: 72E0562281502A1
+    RANGER_TP_RR: 33.15
+  response: '72E056228150297'
 - expected_values:
     RANGER_TP_RR: 38.3
   response: 72E0562281502FE
