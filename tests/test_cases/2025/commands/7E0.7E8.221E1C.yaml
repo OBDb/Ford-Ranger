@@ -1,0 +1,14 @@
+command_id: 7E0.7E8.221E1C
+test_cases:
+- expected_values:
+    RANGER_TOT: 12.5
+  response: 7E805621E1C00C8
+- expected_values:
+    RANGER_TOT: 17
+  response: 7E805621E1C0110
+- expected_values:
+    RANGER_TOT: 63.6875
+  response: 7E805621E1C03FB
+- expected_values:
+    RANGER_TOT: 65.6875
+  response: 7E805621E1C041B
