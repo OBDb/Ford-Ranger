@@ -11,4 +11,4 @@ test_cases:
   response: 7E905621E1C0302
 - expected_values:
     RANGER_TOT: 4
-  response: 7E905621E1C042D
+  response: 7E905621E1C0409
