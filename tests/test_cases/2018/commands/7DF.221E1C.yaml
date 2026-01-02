@@ -27,7 +27,7 @@ test_cases:
     7E905621E1C04EF
 - expected_values:
     RANGER_TOT: 0
-  response: 7E905621E1C0068
+  response: 7E905621E1C001E
 - expected_values:
     RANGER_TOT: 0
   response: 7E905621E1C00FF
