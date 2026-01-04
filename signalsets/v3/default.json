@@ -35,7 +35,7 @@
   "signals": [
     {"id": "RANGER_TOT", "path": "Transmission", "fmt": { "len": 16, "max": 255, "div": 16, "unit": "celsius" }, "name": "Transmission oil temperature"}
   ]},
-{ "hdr": "7E0", "rax": "7E8", "cmd": {"22": "1E23"}, "freq": 2, "dbgfilter": { "to": 2020, "from": 2026 },
+{ "hdr": "7E0", "rax": "7E8", "cmd": {"22": "1E23"}, "freq": 2, "dbgfilter": { "to": 2018, "years": [2020], "from": 2026 },
   "signals": [
     {"id": "RANGER_GEAR_SHFT", "path": "Transmission", "name": "Shift gear", "fmt": {"len": 8, "map": {
           "10": { "description": "Manual",  "value": "MANUAL" },
