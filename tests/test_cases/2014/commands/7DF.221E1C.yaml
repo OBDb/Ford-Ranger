@@ -4,8 +4,8 @@ test_cases:
     RANGER_TOT: 0
   response: 7E905621E1C00D7
 - expected_values:
-    RANGER_TOT: 2
-  response: 7E905621E1C02FD
+    RANGER_TOT: 1
+  response: 7E905621E1C01FD
 - expected_values:
     RANGER_TOT: 5
   response: 7E905621E1C0500
