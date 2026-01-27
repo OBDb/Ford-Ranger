@@ -4,5 +4,5 @@ test_cases:
     RANGER_FLI: 0
   response: 7E80462F42F00
 - expected_values:
-    RANGER_FLI: 95
-  response: 7E80462F42F5F
+    RANGER_FLI: 249
+  response: 7E80462F42FF9
