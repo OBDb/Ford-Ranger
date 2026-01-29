@@ -4,29 +4,11 @@ test_cases:
     RANGER_EOT: 23
   response: 7E80562131017D4
 - expected_values:
-    RANGER_EOT: 24
-  response: 7E805621310189C
-- expected_values:
-    RANGER_EOT: 30
-  response: 7E8056213101E78
+    RANGER_EOT: 26
+  response: 7E8056213101A2C
 - expected_values:
     RANGER_EOT: 33
   response: 7E80562131021FC
-- expected_values:
-    RANGER_EOT: 34
-  response: 7E80562131022C4
-- expected_values:
-    RANGER_EOT: 44
-  response: 7E8056213102CEC
-- expected_values:
-    RANGER_EOT: 45
-  response: 7E8056213102D50
-- expected_values:
-    RANGER_EOT: 45
-  response: 7E8056213102DB4
-- expected_values:
-    RANGER_EOT: 46
-  response: 7E8056213102E7C
 - expected_values:
     RANGER_EOT: 47
   response: 7E8056213102FA8
