@@ -15,3 +15,6 @@ test_cases:
 - expected_values:
     RANGER_GEAR: 5
   response: 7E904621E1205
+- expected_values:
+    RANGER_GEAR: 6
+  response: 7E904621E1206
