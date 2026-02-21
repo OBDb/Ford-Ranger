@@ -68,6 +68,7 @@ supported_commands_by_ecu:
   - 7E0.015E:FUEL_RATE
   "7E1":
   - 7E1.7E9.0104
+  - 7E1.7E9.0105
   - 7E1.7E9.010D
   - 7E1.7E9.0131
   - 7E1.7E9.0142
@@ -83,8 +84,6 @@ unsupported_commands_by_ecu:
   - 760.768.223201:RANGER_STEER_ANGLE
   "7DF":
   - 7DF.221310:RANGER_EOT
-  "7E1":
-  - 7E1.7E9.0105
   "7E6":
   - 7E6.7EE.0104
   - 7E6.7EE.0142
