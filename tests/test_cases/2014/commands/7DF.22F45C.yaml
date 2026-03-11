@@ -1,6 +1,12 @@
 command_id: 7DF.22F45C
 test_cases:
 - expected_values:
+    RANGER_EOP: 89
+  response: 7E80462F45C59
+- expected_values:
+    RANGER_EOP: 90
+  response: 7E80462F45C5A
+- expected_values:
     RANGER_EOP: 91
   response: 7E80462F45C5B
 - expected_values:
