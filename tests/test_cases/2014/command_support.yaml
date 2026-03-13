@@ -1,6 +1,8 @@
 model_year: 2014
 supported_commands_by_ecu:
   "7DF":
+  - 7DF.0105
+  - 7DF.0110
   - 7DF.221310:RANGER_EOT
   - 7DF.221E12:RANGER_GEAR
   - 7DF.221E1C:RANGER_TOT
