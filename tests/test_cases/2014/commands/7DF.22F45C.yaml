@@ -4,5 +4,5 @@ test_cases:
     RANGER_EOP: 54
   response: 7E80462F45C36
 - expected_values:
-    RANGER_EOP: 96
-  response: 7E80462F45C60
+    RANGER_EOP: 125
+  response: 7E80462F45C7D
