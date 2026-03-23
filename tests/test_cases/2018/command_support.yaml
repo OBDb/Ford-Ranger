@@ -67,6 +67,7 @@ supported_commands_by_ecu:
   - 7E0.015A:APP_R
   - 7E0.015E:FUEL_RATE
   "7E1":
+  - 7E1.7E9.0101
   - 7E1.7E9.0104
   - 7E1.7E9.0105
   - 7E1.7E9.010D

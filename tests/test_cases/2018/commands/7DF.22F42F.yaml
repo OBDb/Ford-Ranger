@@ -19,6 +19,11 @@ test_cases:
     RANGER_FLI: 4
   response: 7E80462F42F04
 - expected_values:
+    RANGER_FLI: 22
+  response: |-
+    7E80462F42F16
+    7E9064100981A0013
+- expected_values:
     RANGER_FLI: 94
   response: |-
     7E80462F42F5E
