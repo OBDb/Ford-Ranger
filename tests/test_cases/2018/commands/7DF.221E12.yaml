@@ -36,10 +36,10 @@ test_cases:
     RANGER_GEAR: 1
   response: 7E904621E1201
 - expected_values:
-    RANGER_GEAR: 1
+    RANGER_GEAR: 0
   response: |-
     7E904621E1201
-    7E804621E1201
+    7E804621E1200
 - expected_values:
     RANGER_GEAR: 60
   response: |-
