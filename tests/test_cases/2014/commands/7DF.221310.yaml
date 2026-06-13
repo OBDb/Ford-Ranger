@@ -1,8 +1,8 @@
 command_id: 7DF.221310
 test_cases:
 - expected_values:
-    RANGER_EOT: 20
-  response: '7E8056213101450'
+    RANGER_EOT: 18
+  response: 7E80562131012C0
 - expected_values:
     RANGER_EOT: 25
   response: '7E8056213101900'
