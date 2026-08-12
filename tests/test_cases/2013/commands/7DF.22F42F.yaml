@@ -1,0 +1,8 @@
+command_id: 7DF.22F42F
+test_cases:
+- expected_values:
+    RANGER_FLI: 207
+  response: 7E80462F42FCF
+- expected_values:
+    RANGER_FLI: 208
+  response: 7E80462F42FD0
