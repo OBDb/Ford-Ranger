@@ -7,8 +7,14 @@ test_cases:
     RANGER_EOT: 23
   response: '7E8056213101770'
 - expected_values:
+    RANGER_EOT: 24
+  response: 7E805621310189C
+- expected_values:
     RANGER_EOT: 26
   response: 7E8056213101AF4
+- expected_values:
+    RANGER_EOT: 32
+  response: 7E805621310206C
 - expected_values:
     RANGER_EOT: 32
   response: 7E80562131020D0
