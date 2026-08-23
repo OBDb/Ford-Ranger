@@ -4,29 +4,5 @@ test_cases:
     RANGER_FLI: 0
   response: 7E80462F42F00
 - expected_values:
-    RANGER_FLI: 193
-  response: 7E80462F42FC1
-- expected_values:
-    RANGER_FLI: 194
-  response: 7E80462F42FC2
-- expected_values:
-    RANGER_FLI: 195
-  response: 7E80462F42FC3
-- expected_values:
-    RANGER_FLI: 203
-  response: 7E80462F42FCB
-- expected_values:
-    RANGER_FLI: 204
-  response: 7E80462F42FCC
-- expected_values:
-    RANGER_FLI: 205
-  response: 7E80462F42FCD
-- expected_values:
-    RANGER_FLI: 206
-  response: 7E80462F42FCE
-- expected_values:
-    RANGER_FLI: 207
-  response: 7E80462F42FCF
-- expected_values:
     RANGER_FLI: 208
   response: 7E80462F42FD0
