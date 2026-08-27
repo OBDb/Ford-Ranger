@@ -2,7 +2,7 @@ command_id: 7DF.221E1C
 test_cases:
 - expected_values:
     RANGER_TOT: 0
-  response: 7E905621E1C009E
+  response: 7E905621E1C008F
 - expected_values:
     RANGER_TOT: 0
   response: 7E905621E1C00FF
