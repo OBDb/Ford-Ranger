@@ -1,6 +1,9 @@
 command_id: 7DF.221E23
 test_cases:
 - expected_values:
+    RANGER_GEAR_SHFT: 10
+  response: 7E904621E230A
+- expected_values:
     RANGER_GEAR_SHFT: 46
   response: 7E904621E232E
 - expected_values:
