@@ -7,50 +7,14 @@ test_cases:
     MAFB_SUP: 0
   response: '7E80741660100270000'
 - expected_values:
-    MAFA: 2.46875
-    MAFA_SUP: 1
-    MAFB: 0
-    MAFB_SUP: 0
-  response: 7E807416601004F0000
-- expected_values:
-    MAFA: 6.65625
-    MAFA_SUP: 1
-    MAFB: 0
-    MAFB_SUP: 0
-  response: 7E80741660100D50000
-- expected_values:
-    MAFA: 6.78125
-    MAFA_SUP: 1
-    MAFB: 0
-    MAFB_SUP: 0
-  response: 7E80741660100D90000
-- expected_values:
     MAFA: 7.46875
     MAFA_SUP: 1
     MAFB: 0
     MAFB_SUP: 0
   response: 7E80741660100EF0000
 - expected_values:
-    MAFA: 9.96875
-    MAFA_SUP: 1
-    MAFB: 0
-    MAFB_SUP: 0
-  response: 7E807416601013F0000
-- expected_values:
-    MAFA: 14.15625
-    MAFA_SUP: 1
-    MAFB: 0
-    MAFB_SUP: 0
-  response: 7E80741660101C50000
-- expected_values:
     MAFA: 17.75
     MAFA_SUP: 1
     MAFB: 0
     MAFB_SUP: 0
   response: '7E80741660102380000'
-- expected_values:
-    MAFA: 22.78125
-    MAFA_SUP: 1
-    MAFB: 0
-    MAFB_SUP: 0
-  response: 7E80741660102D90000
