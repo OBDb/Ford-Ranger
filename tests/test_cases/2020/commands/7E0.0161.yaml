@@ -3,3 +3,12 @@ test_cases:
 - expected_values:
     TQ_DD: 4
   response: '7E803416181'
+- expected_values:
+    TQ_DD: 35
+  response: 7E8034161A0
+- expected_values:
+    TQ_DD: 43
+  response: 7E8034161A8
+- expected_values:
+    TQ_DD: 44
+  response: 7E8034161A9
