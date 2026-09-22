@@ -22,5 +22,5 @@ test_cases:
     RANGER_TP_RR: 38.25
   response: 72E0562281502FD
 - expected_values:
-    RANGER_TP_RR: 38.5
-  response: '72E056228150302'
+    RANGER_TP_RR: 38.45
+  response: '72E056228150301'
