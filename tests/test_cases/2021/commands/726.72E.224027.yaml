@@ -1,0 +1,5 @@
+command_id: 726.72E.224027
+test_cases:
+- expected_values:
+    RANGER_12V_AGE: 4560
+  response: 72E0562402700BE

@@ -1,0 +1,14 @@
+command_id: 7E0.7E8.220462
+test_cases:
+- expected_values:
+    RANGER_WGDC: 19.89746
+  response: '7E8056204621978'
+- expected_values:
+    RANGER_WGDC: 58.59375
+  response: 7E8056204624B00
+- expected_values:
+    RANGER_WGDC: 61.69434
+  response: 7E8056204624EF8
+- expected_values:
+    RANGER_WGDC: 100
+  response: '7E8056204628000'

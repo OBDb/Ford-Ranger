@@ -1,0 +1,14 @@
+command_id: 7E0.7E8.22038F
+test_cases:
+- expected_values:
+    RANGER_ECT: 46.17188
+  response: 7E80562038F0B8B
+- expected_values:
+    RANGER_ECT: 51.96875
+  response: 7E80562038F0CFE
+- expected_values:
+    RANGER_ECT: 88.0625
+  response: 7E80562038F1604
+- expected_values:
+    RANGER_ECT: 92.17188
+  response: 7E80562038F170B

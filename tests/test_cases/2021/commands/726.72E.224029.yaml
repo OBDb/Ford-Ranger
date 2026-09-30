@@ -1,0 +1,11 @@
+command_id: 726.72E.224029
+test_cases:
+- expected_values:
+    RANGER_12V_T: 37
+  response: 72E046240294D
+- expected_values:
+    RANGER_12V_T: 38
+  response: 72E046240294E
+- expected_values:
+    RANGER_12V_T: 39
+  response: 72E046240294F
