@@ -77,9 +77,9 @@ supported_commands_by_ecu:
   - 7E0.7E8.22F42F:RANGER_FLI
 unsupported_commands_by_ecu:
   "720":
-  - 720.728.22404C
-  - 720.728.226180
-  - 720.728.226185
+  - 720.728.22404C:RANGER_ODO
+  - 720.728.226180:RANGER_ODO_720
+  - 720.728.226185:RANGER_FLI_720
   "760":
   - 760.768.223201
   "7DF":
