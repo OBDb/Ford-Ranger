@@ -1,0 +1,14 @@
+command_id: 7E0.7E8.22F43C
+test_cases:
+- expected_values:
+    RANGER_CAT_TEMP: 102
+  response: 7E80562F43C058C
+- expected_values:
+    RANGER_CAT_TEMP: 344.3
+  response: 7E80562F43C0F03
+- expected_values:
+    RANGER_CAT_TEMP: 497.4
+  response: 7E80562F43C14FE
+- expected_values:
+    RANGER_CAT_TEMP: 581.4
+  response: 7E80562F43C1846
