@@ -717,7 +717,7 @@
   ]},
 { "hdr": "7E0", "rax": "7E8", "cmd": {"22": "1E1C"}, "freq": 1, "dbgfilter": { "to": 2018, "years": [2020], "from": 2027 },
   "signals": [
-    {"id": "RANGER_TOT", "path": "Transmission", "fmt": { "len": 16, "max": 255, "div": 16, "unit": "celsius" }, "name": "Transmission oil temperature"}
+    {"id": "RANGER_TOT", "path": "Transmission", "fmt": { "len": 16, "max": 255, "min": -40, "div": 16, "sign": true, "unit": "celsius" }, "name": "Transmission oil temperature", "suggestedMetric": "transmissionFluidTemperature"}
   ]},
 { "hdr": "7E0", "rax": "7E8", "cmd": {"22": "1E1F"}, "freq": 1, "dbgfilter": { "to": 2020, "from": 2022 },
   "signals": [
