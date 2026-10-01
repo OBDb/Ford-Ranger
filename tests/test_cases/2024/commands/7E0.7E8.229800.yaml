@@ -1,0 +1,11 @@
+command_id: 7E0.7E8.229800
+test_cases:
+- expected_values:
+    RANGER_AC_P_SENS_V: 1.29395
+  response: 7E805629800052D
+- expected_values:
+    RANGER_AC_P_SENS_V: 1.46973
+  response: 7E80562980005E1
+- expected_values:
+    RANGER_AC_P_SENS_V: 1.51855
+  response: '7E8056298000613'

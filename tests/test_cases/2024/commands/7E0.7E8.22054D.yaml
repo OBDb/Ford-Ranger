@@ -1,0 +1,14 @@
+command_id: 7E0.7E8.22054D
+test_cases:
+- expected_values:
+    RANGER_LPFP_SENS_V: 3.05176
+  response: 7E80562054D0C35
+- expected_values:
+    RANGER_LPFP_SENS_V: 3.24707
+  response: 7E80562054D0CFD
+- expected_values:
+    RANGER_LPFP_SENS_V: 3.27148
+  response: 7E80562054D0D16
+- expected_values:
+    RANGER_LPFP_SENS_V: 3.56445
+  response: 7E80562054D0E42

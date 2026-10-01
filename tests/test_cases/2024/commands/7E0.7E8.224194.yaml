@@ -1,0 +1,11 @@
+command_id: 7E0.7E8.224194
+test_cases:
+- expected_values:
+    RANGER_DTE: 560.2
+  response: 7E80562419415E2
+- expected_values:
+    RANGER_DTE: 561.9
+  response: 7E80562419415F3
+- expected_values:
+    RANGER_DTE: 564.9
+  response: '7E8056241941611'

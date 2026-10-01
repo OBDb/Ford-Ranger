@@ -1,0 +1,29 @@
+command_id: 7E0.7E8.220466
+test_cases:
+- expected_values:
+    RANGER_TIP_DES_ABS: 14.14898
+  response: 7E80562046631F4
+- expected_values:
+    RANGER_TIP_DES_ABS: 14.1534
+  response: 7E80562046631F8
+- expected_values:
+    RANGER_TIP_DES_ABS: 14.15562
+  response: 7E80562046631FA
+- expected_values:
+    RANGER_TIP_DES_ABS: 14.15783
+  response: 7E80562046631FC
+- expected_values:
+    RANGER_TIP_DES_ABS: 14.16558
+  response: '7E8056204663203'
+- expected_values:
+    RANGER_TIP_DES_ABS: 14.17
+  response: '7E8056204663207'
+- expected_values:
+    RANGER_TIP_DES_ABS: 14.17111
+  response: '7E8056204663208'
+- expected_values:
+    RANGER_TIP_DES_ABS: 14.17332
+  response: 7E805620466320A
+- expected_values:
+    RANGER_TIP_DES_ABS: 14.17553
+  response: 7E805620466320C

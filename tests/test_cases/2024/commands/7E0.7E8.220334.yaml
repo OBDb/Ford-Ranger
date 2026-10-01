@@ -1,0 +1,14 @@
+command_id: 7E0.7E8.220334
+test_cases:
+- expected_values:
+    RANGER_PCM_CYL_HEAD_T_CORR: 25.98438
+  response: 7E805620334067F
+- expected_values:
+    RANGER_PCM_CYL_HEAD_T_CORR: 44.4375
+  response: 7E8056203340B1C
+- expected_values:
+    RANGER_PCM_CYL_HEAD_T_CORR: 63.84375
+  response: 7E8056203340FF6
+- expected_values:
+    RANGER_PCM_CYL_HEAD_T_CORR: 73.1875
+  response: 7E805620334124C

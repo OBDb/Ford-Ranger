@@ -1,0 +1,11 @@
+command_id: 7E0.7E8.220319
+test_cases:
+- expected_values:
+    RANGER_VCT_EXH_ACT: 0
+  response: '7E8056203190000'
+- expected_values:
+    RANGER_VCT_EXH_ACT: 35.0625
+  response: '7E8056203190231'
+- expected_values:
+    RANGER_VCT_EXH_ACT: 47.5
+  response: 7E80562031902F8
