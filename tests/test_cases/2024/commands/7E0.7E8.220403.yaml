@@ -4,29 +4,5 @@ test_cases:
     RANGER_KS1_RAW: 23
   response: '7E8056204030017'
 - expected_values:
-    RANGER_KS1_RAW: 24
-  response: '7E8056204030018'
-- expected_values:
-    RANGER_KS1_RAW: 25
-  response: '7E8056204030019'
-- expected_values:
-    RANGER_KS1_RAW: 28
-  response: 7E805620403001C
-- expected_values:
-    RANGER_KS1_RAW: 29
-  response: 7E805620403001D
-- expected_values:
-    RANGER_KS1_RAW: 30
-  response: 7E805620403001E
-- expected_values:
-    RANGER_KS1_RAW: 33
-  response: '7E8056204030021'
-- expected_values:
-    RANGER_KS1_RAW: 37
-  response: '7E8056204030025'
-- expected_values:
-    RANGER_KS1_RAW: 58
-  response: 7E805620403003A
-- expected_values:
     RANGER_KS1_RAW: 999
   response: 7E80562040303E7

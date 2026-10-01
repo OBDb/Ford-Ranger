@@ -4,5 +4,5 @@ test_cases:
     RANGER_ENG_LOAD_PCT: 0
   response: 7E80462F40400
 - expected_values:
-    RANGER_ENG_LOAD_PCT: 56.47059
-  response: 7E80462F40490
+    RANGER_ENG_LOAD_PCT: 85.88235
+  response: 7E80462F404DB

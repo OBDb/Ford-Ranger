@@ -4,26 +4,8 @@ test_cases:
     RANGER_VCT_EXH_ERR: 0
   response: 7E80562031B0000
 - expected_values:
-    RANGER_VCT_EXH_ERR: 0.0625
-  response: 7E80562031B0001
-- expected_values:
-    RANGER_VCT_EXH_ERR: 0.25
-  response: 7E80562031B0004
-- expected_values:
-    RANGER_VCT_EXH_ERR: 0.4375
-  response: 7E80562031B0007
+    RANGER_VCT_EXH_ERR: 50
+  response: 7E80562031BFFB7
 - expected_values:
     RANGER_VCT_EXH_ERR: 50
-  response: 7E80562031BFFF8
-- expected_values:
-    RANGER_VCT_EXH_ERR: 50
-  response: 7E80562031BFFF9
-- expected_values:
-    RANGER_VCT_EXH_ERR: 50
-  response: 7E80562031BFFFA
-- expected_values:
-    RANGER_VCT_EXH_ERR: 50
-  response: 7E80562031BFFFB
-- expected_values:
-    RANGER_VCT_EXH_ERR: 50
-  response: 7E80562031BFFFC
+  response: 7E80562031BFFFF

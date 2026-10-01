@@ -3,3 +3,9 @@ test_cases:
 - expected_values:
     RANGER_VCT_INT_DUTY: 0
   response: '7E8056203160000'
+- expected_values:
+    RANGER_VCT_INT_DUTY: 46.8689
+  response: 7E8056203163BFE
+- expected_values:
+    RANGER_VCT_INT_DUTY: 49.2981
+  response: 7E8056203163F1A

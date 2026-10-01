@@ -7,8 +7,8 @@ test_cases:
     RANGER_ECT: 44.07812
   response: 7E80562038F0B05
 - expected_values:
-    RANGER_ECT: 63.875
-  response: 7E80562038F0FF8
+    RANGER_ECT: 87.98438
+  response: 7E80562038F15FF
 - expected_values:
-    RANGER_ECT: 73.15625
-  response: 7E80562038F124A
+    RANGER_ECT: 101.04688
+  response: 7E80562038F1943

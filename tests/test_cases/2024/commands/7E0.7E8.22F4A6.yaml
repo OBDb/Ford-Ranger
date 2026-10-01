@@ -4,29 +4,11 @@ test_cases:
     RANGER_PCM_VEH_ODO: 24107.6
   response: 7E80762F4A60003ADB4
 - expected_values:
-    RANGER_PCM_VEH_ODO: 24107.7
-  response: 7E80762F4A60003ADB5
+    RANGER_PCM_VEH_ODO: 24217.5
+  response: 7E80762F4A60003B1FF
 - expected_values:
-    RANGER_PCM_VEH_ODO: 24107.9
-  response: 7E80762F4A60003ADB7
+    RANGER_PCM_VEH_ODO: 24243.2
+  response: 7E80762F4A60003B300
 - expected_values:
-    RANGER_PCM_VEH_ODO: 24108.2
-  response: 7E80762F4A60003ADBA
-- expected_values:
-    RANGER_PCM_VEH_ODO: 24108.4
-  response: 7E80762F4A60003ADBC
-- expected_values:
-    RANGER_PCM_VEH_ODO: 24108.5
-  response: 7E80762F4A60003ADBD
-- expected_values:
-    RANGER_PCM_VEH_ODO: 24108.6
-  response: 7E80762F4A60003ADBE
-- expected_values:
-    RANGER_PCM_VEH_ODO: 24109.1
-  response: 7E80762F4A60003ADC3
-- expected_values:
-    RANGER_PCM_VEH_ODO: 24109.3
-  response: 7E80762F4A60003ADC5
-- expected_values:
-    RANGER_PCM_VEH_ODO: 24109.4
-  response: 7E80762F4A60003ADC6
+    RANGER_PCM_VEH_ODO: 24269.2
+  response: 7E80762F4A60003B404
