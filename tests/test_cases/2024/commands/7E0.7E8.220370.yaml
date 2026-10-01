@@ -1,11 +1,11 @@
 command_id: 7E0.7E8.220370
 test_cases:
 - expected_values:
-    RANGER_MAP_HIRES: 21.5
-  response: '7E8056203700056'
+    RANGER_MAP_HIRES: 21
+  response: '7E8056203700054'
 - expected_values:
-    RANGER_MAP_HIRES: 57.5
-  response: 7E80562037000E6
+    RANGER_MAP_HIRES: 126
+  response: 7E80562037001F8
 - expected_values:
-    RANGER_MAP_HIRES: 66.75
-  response: 7E805620370010B
+    RANGER_MAP_HIRES: 129
+  response: '7E8056203700204'

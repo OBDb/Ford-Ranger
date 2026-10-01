@@ -5,10 +5,7 @@ test_cases:
   response: 7E80562038E078B
 - expected_values:
     RANGER_EVAP_V: 5
-  response: 7E80562038E08EA
+  response: 7E80562038E08FE
 - expected_values:
     RANGER_EVAP_V: 5
-  response: 7E80562038E0903
-- expected_values:
-    RANGER_EVAP_V: 5
-  response: 7E80562038E0A98
+  response: 7E80562038E0A02

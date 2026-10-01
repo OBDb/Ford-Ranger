@@ -1,26 +1,8 @@
 command_id: 726.72E.22402B
 test_cases:
 - expected_values:
-    RANGER_VEH_BAT_CURRENT: -12
-  response: 72E0462402B73
+    RANGER_VEH_BAT_CURRENT: -46
+  response: 72E0462402B51
 - expected_values:
-    RANGER_VEH_BAT_CURRENT: 7
-  response: 72E0462402B86
-- expected_values:
-    RANGER_VEH_BAT_CURRENT: 9
-  response: 72E0462402B88
-- expected_values:
-    RANGER_VEH_BAT_CURRENT: 10
-  response: 72E0462402B89
-- expected_values:
-    RANGER_VEH_BAT_CURRENT: 11
-  response: 72E0462402B8A
-- expected_values:
-    RANGER_VEH_BAT_CURRENT: 12
-  response: 72E0462402B8B
-- expected_values:
-    RANGER_VEH_BAT_CURRENT: 19
-  response: 72E0462402B92
-- expected_values:
-    RANGER_VEH_BAT_CURRENT: 24
-  response: 72E0462402B97
+    RANGER_VEH_BAT_CURRENT: 59
+  response: 72E0462402BBA

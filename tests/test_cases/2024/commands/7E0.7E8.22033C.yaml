@@ -1,14 +1,11 @@
 command_id: 7E0.7E8.22033C
 test_cases:
 - expected_values:
-    RANGER_TIP_V: 1.4209
-  response: 7E80562033C0123
+    RANGER_TIP_V: 1.40137
+  response: 7E80562033C011F
 - expected_values:
-    RANGER_TIP_V: 1.42578
-  response: 7E80562033C0124
+    RANGER_TIP_V: 2.25098
+  response: 7E80562033C01CD
 - expected_values:
-    RANGER_TIP_V: 1.43066
-  response: 7E80562033C0125
-- expected_values:
-    RANGER_TIP_V: 1.43555
-  response: 7E80562033C0126
+    RANGER_TIP_V: 2.5
+  response: 7E80562033C0200

@@ -4,5 +4,5 @@ test_cases:
     RANGER_LPFP_DES: 69.165
   response: 7E80462041F9F
 - expected_values:
-    RANGER_LPFP_DES: 73.95
-  response: 7E80462041FAA
+    RANGER_LPFP_DES: 87
+  response: 7E80462041FC8

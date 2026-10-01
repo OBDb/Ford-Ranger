@@ -4,8 +4,11 @@ test_cases:
     RANGER_HPFP_DES: 360
   response: 7E8056203DC0024
 - expected_values:
-    RANGER_HPFP_DES: 9330
-  response: 7E8056203DC03A5
-- expected_values:
     RANGER_HPFP_DES: 10230
   response: 7E8056203DC03FF
+- expected_values:
+    RANGER_HPFP_DES: 17940
+  response: 7E8056203DC0702
+- expected_values:
+    RANGER_HPFP_DES: 20770
+  response: 7E8056203DC081D

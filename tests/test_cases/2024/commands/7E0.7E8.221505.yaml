@@ -4,8 +4,8 @@ test_cases:
     RANGER_VSS_HD: 0
   response: '7E8056215050000'
 - expected_values:
-    RANGER_VSS_HD: 29.46875
-  response: 7E8056215050EBC
+    RANGER_VSS_HD: 109.99219
+  response: 7E80562150536FF
 - expected_values:
-    RANGER_VSS_HD: 38.33594
-  response: 7E805621505132B
+    RANGER_VSS_HD: 134.64062
+  response: '7E8056215054352'
