@@ -1,14 +1,14 @@
 command_id: 7E0.7E8.22054D
 test_cases:
 - expected_values:
-    RANGER_LPFP_SENS_V: 3.05176
-  response: 7E80562054D0C35
+    RANGER_LPFP_SENS_V: 2.76855
+  response: 7E80562054D0B13
 - expected_values:
-    RANGER_LPFP_SENS_V: 3.24707
-  response: 7E80562054D0CFD
+    RANGER_LPFP_SENS_V: 2.99805
+  response: 7E80562054D0BFE
 - expected_values:
-    RANGER_LPFP_SENS_V: 3.27148
-  response: 7E80562054D0D16
+    RANGER_LPFP_SENS_V: 3.75
+  response: 7E80562054D0F00
 - expected_values:
-    RANGER_LPFP_SENS_V: 3.56445
-  response: 7E80562054D0E42
+    RANGER_LPFP_SENS_V: 4.05762
+  response: 7E80562054D103B

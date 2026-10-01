@@ -4,8 +4,11 @@ test_cases:
     RANGER_CAT_TEMP: 370.7
   response: 7E80562F43C100B
 - expected_values:
-    RANGER_CAT_TEMP: 518.3
-  response: 7E80562F43C15CF
+    RANGER_CAT_TEMP: 702.1
+  response: 7E80562F43C1CFD
 - expected_values:
-    RANGER_CAT_TEMP: 628.5
-  response: 7E80562F43C1A1D
+    RANGER_CAT_TEMP: 702.4
+  response: 7E80562F43C1D00
+- expected_values:
+    RANGER_CAT_TEMP: 872
+  response: 7E80562F43C23A0

@@ -4,8 +4,5 @@ test_cases:
     RANGER_ODO_7E0: 24107
   response: 7E80662DD01005E2B
 - expected_values:
-    RANGER_ODO_7E0: 24108
-  response: 7E80662DD01005E2C
-- expected_values:
-    RANGER_ODO_7E0: 24109
-  response: 7E80662DD01005E2D
+    RANGER_ODO_7E0: 24293
+  response: 7E80662DD01005EE5

@@ -1,14 +1,14 @@
 command_id: 7E0.7E8.22091A
 test_cases:
 - expected_values:
-    RANGER_ETC_ANG_DES: 2.53125
-  response: 7E80562091A0510
-- expected_values:
-    RANGER_ETC_ANG_DES: 4.43359
-  response: 7E80562091A08DE
+    RANGER_ETC_ANG_DES: 1.12305
+  response: 7E80562091A023F
 - expected_values:
     RANGER_ETC_ANG_DES: 8
   response: 7E80562091A1000
 - expected_values:
-    RANGER_ETC_ANG_DES: 14.22461
-  response: 7E80562091A1C73
+    RANGER_ETC_ANG_DES: 11.49609
+  response: 7E80562091A16FE
+- expected_values:
+    RANGER_ETC_ANG_DES: 82
+  response: 7E80562091AA400

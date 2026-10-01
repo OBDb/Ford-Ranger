@@ -4,20 +4,5 @@ test_cases:
     RANGER_PCM_MISF_ACCEL_CYL2_NORM: 0
   response: '7E80462038800'
 - expected_values:
-    RANGER_PCM_MISF_ACCEL_CYL2_NORM: -0.21875
-  response: 7E804620388F2
-- expected_values:
-    RANGER_PCM_MISF_ACCEL_CYL2_NORM: -0.14062
-  response: 7E804620388F7
-- expected_values:
-    RANGER_PCM_MISF_ACCEL_CYL2_NORM: -0.09375
-  response: 7E804620388FA
-- expected_values:
-    RANGER_PCM_MISF_ACCEL_CYL2_NORM: -0.07812
-  response: 7E804620388FB
-- expected_values:
-    RANGER_PCM_MISF_ACCEL_CYL2_NORM: -0.04688
-  response: 7E804620388FD
-- expected_values:
     RANGER_PCM_MISF_ACCEL_CYL2_NORM: -0.01562
   response: 7E804620388FF

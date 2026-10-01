@@ -3,3 +3,6 @@ test_cases:
 - expected_values:
     RANGER_WARMUP_CLR: 60
   response: 7E80462F4303C
+- expected_values:
+    RANGER_WARMUP_CLR: 61
+  response: 7E80462F4303D

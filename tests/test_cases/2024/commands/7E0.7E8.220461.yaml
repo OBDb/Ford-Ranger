@@ -7,5 +7,5 @@ test_cases:
     RANGER_CAT: -15.90625
   response: '7E8056204610606'
 - expected_values:
-    RANGER_CAT: -11.90625
-  response: '7E8056204610706'
+    RANGER_CAT: 4.21875
+  response: 7E8056204610B0E

@@ -4,8 +4,8 @@ test_cases:
     RANGER_CL_LC: 0
   response: 7E8056203BD0000
 - expected_values:
-    RANGER_CL_LC: -0.01501
-  response: 7E8056203BDFF85
+    RANGER_CL_LC: -0.02197
+  response: 7E8056203BDFF4C
 - expected_values:
     RANGER_CL_LC: -0.00171
   response: 7E8056203BDFFF2

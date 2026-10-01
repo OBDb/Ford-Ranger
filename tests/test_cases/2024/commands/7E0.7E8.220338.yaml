@@ -10,5 +10,20 @@ test_cases:
     RANGER_ETC_TRIM_LRN: -0.07617
   response: 7E805620338FFD9
 - expected_values:
+    RANGER_ETC_TRIM_LRN: -0.07227
+  response: 7E805620338FFDB
+- expected_values:
+    RANGER_ETC_TRIM_LRN: -0.06836
+  response: 7E805620338FFDD
+- expected_values:
     RANGER_ETC_TRIM_LRN: -0.04688
   response: 7E805620338FFE8
+- expected_values:
+    RANGER_ETC_TRIM_LRN: -0.04492
+  response: 7E805620338FFE9
+- expected_values:
+    RANGER_ETC_TRIM_LRN: -0.04102
+  response: 7E805620338FFEB
+- expected_values:
+    RANGER_ETC_TRIM_LRN: -0.03906
+  response: 7E805620338FFEC

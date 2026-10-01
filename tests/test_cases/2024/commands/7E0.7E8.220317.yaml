@@ -4,14 +4,8 @@ test_cases:
     RANGER_VCT_EXH_DUTY: 0
   response: '7E8056203170000'
 - expected_values:
-    RANGER_VCT_EXH_DUTY: 33.56323
-  response: 7E8056203172AF6
+    RANGER_VCT_EXH_DUTY: 43.73474
+  response: 7E80562031737FB
 - expected_values:
-    RANGER_VCT_EXH_DUTY: 35.21118
-  response: 7E8056203172D12
-- expected_values:
-    RANGER_VCT_EXH_DUTY: 40.07263
-  response: 7E805620317334B
-- expected_values:
-    RANGER_VCT_EXH_DUTY: 42.22412
-  response: 7E805620317360C
+    RANGER_VCT_EXH_DUTY: 55.04761
+  response: '7E8056203174676'
