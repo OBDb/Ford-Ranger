@@ -1,0 +1,14 @@
+command_id: 7E0.7E8.22F434
+test_cases:
+- expected_values:
+    RANGER_AIR_FUEL_RAT: 0
+  response: 7E80762F43400008000
+- expected_values:
+    RANGER_AIR_FUEL_RAT: 12.62933
+  response: 7E80762F4346E6B7F63
+- expected_values:
+    RANGER_AIR_FUEL_RAT: 14.52147
+  response: 7E80762F4347EF67FF9
+- expected_values:
+    RANGER_AIR_FUEL_RAT: 16.00302
+  response: 7E80762F4348BEA802D

@@ -1,0 +1,37 @@
+command_id: 726.72E.22280B
+test_cases:
+- expected_values:
+    RANGER_TYRE_T: 52
+  response: |-
+    72E100C62280B60AE1A
+    72E213F02DF5C4BB1CC
+- expected_values:
+    RANGER_TYRE_T: 18
+  response: |-
+    72E100C62280B60AE21
+    72E21AD02DA3A46FECC
+- expected_values:
+    RANGER_TYRE_T: 18
+  response: |-
+    72E100C62280B60AE21
+    72E21AD02DF3A46FFCC
+- expected_values:
+    RANGER_TYRE_T: 15
+  response: |-
+    72E100C62280B60AE22
+    72E216B02D0370678CC
+- expected_values:
+    RANGER_TYRE_T: 18
+  response: |-
+    72E100C62280B60AE35
+    72E21D902D53A463DCC
+- expected_values:
+    RANGER_TYRE_T: 20
+  response: |-
+    72E100C62280B60AE35
+    72E21D902DF3C4641CC
+- expected_values:
+    RANGER_TYRE_T: 20
+  response: |-
+    72E100C62280B60AE35
+    72E21D902E43C4642CC

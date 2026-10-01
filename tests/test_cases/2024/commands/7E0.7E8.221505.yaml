@@ -1,0 +1,11 @@
+command_id: 7E0.7E8.221505
+test_cases:
+- expected_values:
+    RANGER_VSS_HD: 0
+  response: '7E8056215050000'
+- expected_values:
+    RANGER_VSS_HD: 29.46875
+  response: 7E8056215050EBC
+- expected_values:
+    RANGER_VSS_HD: 38.33594
+  response: 7E805621505132B

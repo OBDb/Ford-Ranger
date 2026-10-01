@@ -1,0 +1,11 @@
+command_id: 7E0.7E8.22116B
+test_cases:
+- expected_values:
+    RANGER_IGN_TIM_CYL1: 3.25
+  response: 7E80562116B000D
+- expected_values:
+    RANGER_IGN_TIM_CYL1: -9
+  response: 7E80562116BFFDC
+- expected_values:
+    RANGER_IGN_TIM_CYL1: -1
+  response: 7E80562116BFFFC

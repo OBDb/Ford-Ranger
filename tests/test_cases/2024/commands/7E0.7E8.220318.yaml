@@ -1,0 +1,26 @@
+command_id: 7E0.7E8.220318
+test_cases:
+- expected_values:
+    RANGER_VCT_INT_ACT: 0
+  response: '7E8056203180000'
+- expected_values:
+    RANGER_VCT_INT_ACT: 0.0625
+  response: '7E8056203180001'
+- expected_values:
+    RANGER_VCT_INT_ACT: 0.125
+  response: '7E8056203180002'
+- expected_values:
+    RANGER_VCT_INT_ACT: 0.25
+  response: '7E8056203180004'
+- expected_values:
+    RANGER_VCT_INT_ACT: 0.3125
+  response: '7E8056203180005'
+- expected_values:
+    RANGER_VCT_INT_ACT: 0.4375
+  response: '7E8056203180007'
+- expected_values:
+    RANGER_VCT_INT_ACT: 0.5
+  response: '7E8056203180008'
+- expected_values:
+    RANGER_VCT_INT_ACT: -11.3125
+  response: 7E805620318FF4B

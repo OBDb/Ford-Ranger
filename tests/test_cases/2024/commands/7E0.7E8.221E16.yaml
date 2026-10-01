@@ -1,0 +1,32 @@
+command_id: 7E0.7E8.221E16
+test_cases:
+- expected_values:
+    RANGER_AXLE_GEAR_RATIO_MEAS: 1.51953
+  response: 7E805621E161850
+- expected_values:
+    RANGER_AXLE_GEAR_RATIO_MEAS: 1.52075
+  response: 7E805621E161855
+- expected_values:
+    RANGER_AXLE_GEAR_RATIO_MEAS: 2.14331
+  response: 7E805621E16224B
+- expected_values:
+    RANGER_AXLE_GEAR_RATIO_MEAS: 2.1499
+  response: 7E805621E162266
+- expected_values:
+    RANGER_AXLE_GEAR_RATIO_MEAS: 2.15015
+  response: 7E805621E162267
+- expected_values:
+    RANGER_AXLE_GEAR_RATIO_MEAS: 2.15063
+  response: 7E805621E162269
+- expected_values:
+    RANGER_AXLE_GEAR_RATIO_MEAS: 2.67871
+  response: 7E805621E162ADC
+- expected_values:
+    RANGER_AXLE_GEAR_RATIO_MEAS: 4.71436
+  response: 7E805621E164B6E
+- expected_values:
+    RANGER_AXLE_GEAR_RATIO_MEAS: 4.88477
+  response: 7E805621E164E28
+- expected_values:
+    RANGER_AXLE_GEAR_RATIO_MEAS: 10
+  response: 7E805621E16A000
