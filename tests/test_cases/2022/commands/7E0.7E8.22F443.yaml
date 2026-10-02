@@ -4,5 +4,8 @@ test_cases:
     RANGER_ENG_LOAD_ACT: 0
   response: 7E80562F4430000
 - expected_values:
-    RANGER_ENG_LOAD_ACT: 36.47059
-  response: 7E80562F443005D
+    RANGER_ENG_LOAD_ACT: 82.7451
+  response: 7E80562F44300D3
+- expected_values:
+    RANGER_ENG_LOAD_ACT: 120.39216
+  response: 7E80562F4430133

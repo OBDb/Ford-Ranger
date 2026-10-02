@@ -10,6 +10,12 @@ test_cases:
     RANGER_12V_SOC: 58
   response: 72E046240283A
 - expected_values:
+    RANGER_12V_SOC: 59
+  response: 72E046240283B
+- expected_values:
+    RANGER_12V_SOC: 60
+  response: 72E046240283C
+- expected_values:
     RANGER_12V_SOC: 69
   response: '72E0462402845'
 - expected_values:

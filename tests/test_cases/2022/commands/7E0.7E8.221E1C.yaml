@@ -4,8 +4,11 @@ test_cases:
     RANGER_TOT: 39.625
   response: 7E805621E1C027A
 - expected_values:
-    RANGER_TOT: 44.6875
-  response: 7E805621E1C02CB
+    RANGER_TOT: 48.25
+  response: 7E805621E1C0304
+- expected_values:
+    RANGER_TOT: 63.5625
+  response: 7E805621E1C03F9
 - expected_values:
     RANGER_TOT: 81.4375
   response: 7E805621E1C0517

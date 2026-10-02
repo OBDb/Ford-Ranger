@@ -4,11 +4,23 @@ test_cases:
     RANGER_PCM_CMD_TRANS_MAIN_LINE_P: 410
   response: 7E805621E1A00CD
 - expected_values:
+    RANGER_PCM_CMD_TRANS_MAIN_LINE_P: 496
+  response: 7E805621E1A00F8
+- expected_values:
+    RANGER_PCM_CMD_TRANS_MAIN_LINE_P: 556
+  response: 7E805621E1A0116
+- expected_values:
     RANGER_PCM_CMD_TRANS_MAIN_LINE_P: 562
   response: 7E805621E1A0119
 - expected_values:
+    RANGER_PCM_CMD_TRANS_MAIN_LINE_P: 606
+  response: 7E805621E1A012F
+- expected_values:
     RANGER_PCM_CMD_TRANS_MAIN_LINE_P: 650
   response: 7E805621E1A0145
+- expected_values:
+    RANGER_PCM_CMD_TRANS_MAIN_LINE_P: 782
+  response: 7E805621E1A0187
 - expected_values:
     RANGER_PCM_CMD_TRANS_MAIN_LINE_P: 1150
   response: 7E805621E1A023F

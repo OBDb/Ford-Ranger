@@ -11,6 +11,16 @@ test_cases:
     72E100C62280B63349E
     72E21EE031638464FCC
 - expected_values:
+    RANGER_TYRE_T: 215
+  response: |-
+    72E100C62280B63349E
+    72E21EE0320FF4BEECC
+- expected_values:
+    RANGER_TYRE_T: 215
+  response: |-
+    72E100C62280B63349E
+    72E21EE0320FF4BF0CC
+- expected_values:
     RANGER_TYRE_T: 40
   response: |-
     72E100C62280B63349E

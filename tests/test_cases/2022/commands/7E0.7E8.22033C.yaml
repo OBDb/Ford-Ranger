@@ -9,3 +9,18 @@ test_cases:
 - expected_values:
     RANGER_TIP_V: 1.46484
   response: 7E80562033C012C
+- expected_values:
+    RANGER_TIP_V: 1.46973
+  response: 7E80562033C012D
+- expected_values:
+    RANGER_TIP_V: 1.47461
+  response: 7E80562033C012E
+- expected_values:
+    RANGER_TIP_V: 1.48438
+  response: 7E80562033C0130
+- expected_values:
+    RANGER_TIP_V: 1.54785
+  response: 7E80562033C013D
+- expected_values:
+    RANGER_TIP_V: 1.92383
+  response: 7E80562033C018A

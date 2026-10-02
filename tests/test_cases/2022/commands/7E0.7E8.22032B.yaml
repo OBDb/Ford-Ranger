@@ -4,14 +4,5 @@ test_cases:
     RANGER_ACC_POS: 0
   response: 7E80462032B00
 - expected_values:
-    RANGER_ACC_POS: 6.5
-  response: 7E80462032B0D
-- expected_values:
-    RANGER_ACC_POS: 8
-  response: 7E80462032B10
-- expected_values:
-    RANGER_ACC_POS: 9
-  response: 7E80462032B12
-- expected_values:
-    RANGER_ACC_POS: 15
-  response: 7E80462032B1E
+    RANGER_ACC_POS: 34
+  response: 7E80462032B44

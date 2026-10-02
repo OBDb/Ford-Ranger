@@ -1,8 +1,8 @@
 command_id: 7E0.7E8.22030F
 test_cases:
 - expected_values:
-    RANGER_CL: 0.90384
-  response: 7E80562030F73B1
+    RANGER_CL: 0.84998
+  response: 7E80562030F6CCC
 - expected_values:
     RANGER_CL: 0.96124
   response: 7E80562030F7B0A

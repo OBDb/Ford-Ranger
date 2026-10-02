@@ -4,17 +4,11 @@ test_cases:
     RANGER_TIP_ABS: 14.76526
   response: 7E80562033E3421
 - expected_values:
-    RANGER_TIP_ABS: 14.79181
-  response: 7E80562033E3439
+    RANGER_TIP_ABS: 14.91131
+  response: 7E80562033E34A5
 - expected_values:
-    RANGER_TIP_ABS: 14.80509
-  response: 7E80562033E3445
+    RANGER_TIP_ABS: 15.03191
+  response: 7E80562033E3512
 - expected_values:
-    RANGER_TIP_ABS: 14.81837
-  response: 7E80562033E3451
-- expected_values:
-    RANGER_TIP_ABS: 14.8582
-  response: 7E80562033E3475
-- expected_values:
-    RANGER_TIP_ABS: 14.87148
-  response: 7E80562033E3481
+    RANGER_TIP_ABS: 21.38279
+  response: 7E80562033E4B7E

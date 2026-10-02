@@ -3,3 +3,12 @@ test_cases:
 - expected_values:
     RANGER_IGN_CORR_CYL1: 0
   response: 7E8056203EC0000
+- expected_values:
+    RANGER_IGN_CORR_CYL1: 0.25781
+  response: 7E8056203EC0084
+- expected_values:
+    RANGER_IGN_CORR_CYL1: -2.58984
+  response: 7E8056203ECFAD2
+- expected_values:
+    RANGER_IGN_CORR_CYL1: -1.26367
+  response: 7E8056203ECFD79

@@ -4,5 +4,8 @@ test_cases:
     RANGER_ENG_FUEL_RATE: 0
   response: 7E80562F45E0000
 - expected_values:
-    RANGER_ENG_FUEL_RATE: 5.55
-  response: 7E80562F45E006F
+    RANGER_ENG_FUEL_RATE: 12.05
+  response: 7E80562F45E00F1
+- expected_values:
+    RANGER_ENG_FUEL_RATE: 23.55
+  response: 7E80562F45E01D7

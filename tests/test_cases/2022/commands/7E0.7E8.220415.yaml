@@ -4,8 +4,8 @@ test_cases:
     RANGER_PCM_ENG_EOP_RAW: 102
   response: '7E8056204150066'
 - expected_values:
-    RANGER_PCM_ENG_EOP_RAW: 250
-  response: 7E80562041500FA
+    RANGER_PCM_ENG_EOP_RAW: 253
+  response: 7E80562041500FD
 - expected_values:
     RANGER_PCM_ENG_EOP_RAW: 263
   response: '7E8056204150107'

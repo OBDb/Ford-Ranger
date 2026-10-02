@@ -6,3 +6,21 @@ test_cases:
 - expected_values:
     RANGER_DIST_DTC_CLR: 14856
   response: 7E80562F4313A08
+- expected_values:
+    RANGER_DIST_DTC_CLR: 14857
+  response: 7E80562F4313A09
+- expected_values:
+    RANGER_DIST_DTC_CLR: 14858
+  response: 7E80562F4313A0A
+- expected_values:
+    RANGER_DIST_DTC_CLR: 14859
+  response: 7E80562F4313A0B
+- expected_values:
+    RANGER_DIST_DTC_CLR: 14860
+  response: 7E80562F4313A0C
+- expected_values:
+    RANGER_DIST_DTC_CLR: 14861
+  response: 7E80562F4313A0D
+- expected_values:
+    RANGER_DIST_DTC_CLR: 14862
+  response: 7E80562F4313A0E

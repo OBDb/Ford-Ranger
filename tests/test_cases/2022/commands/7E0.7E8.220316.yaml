@@ -4,23 +4,8 @@ test_cases:
     RANGER_VCT_INT_DUTY: 0
   response: '7E8056203160000'
 - expected_values:
-    RANGER_VCT_INT_DUTY: 35.38818
-  response: 7E8056203162D4C
+    RANGER_VCT_INT_DUTY: 33.52051
+  response: 7E8056203162AE8
 - expected_values:
-    RANGER_VCT_INT_DUTY: 35.47974
-  response: 7E8056203162D6A
-- expected_values:
-    RANGER_VCT_INT_DUTY: 35.83069
-  response: 7E8056203162DDD
-- expected_values:
-    RANGER_VCT_INT_DUTY: 35.86121
-  response: 7E8056203162DE7
-- expected_values:
-    RANGER_VCT_INT_DUTY: 35.98022
-  response: 7E8056203162E0E
-- expected_values:
-    RANGER_VCT_INT_DUTY: 36.16028
-  response: 7E8056203162E49
-- expected_values:
-    RANGER_VCT_INT_DUTY: 36.24878
-  response: 7E8056203162E66
+    RANGER_VCT_INT_DUTY: 56.55823
+  response: '7E8056203164865'

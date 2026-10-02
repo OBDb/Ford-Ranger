@@ -9,3 +9,6 @@ test_cases:
 - expected_values:
     RANGER_HPFP_V: 1.25611
   response: '7E8056203240101'
+- expected_values:
+    RANGER_HPFP_V: 2.64418
+  response: 7E805620324021D
