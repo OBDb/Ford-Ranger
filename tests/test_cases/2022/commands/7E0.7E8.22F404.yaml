@@ -1,0 +1,8 @@
+command_id: 7E0.7E8.22F404
+test_cases:
+- expected_values:
+    RANGER_ENG_LOAD_PCT: 0
+  response: 7E80462F40400
+- expected_values:
+    RANGER_ENG_LOAD_PCT: 48.62745
+  response: 7E80462F4047C

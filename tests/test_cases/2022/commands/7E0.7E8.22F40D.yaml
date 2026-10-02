@@ -1,0 +1,23 @@
+command_id: 7E0.7E8.22F40D
+test_cases:
+- expected_values:
+    RANGER_VSS: 0
+  response: 7E80462F40D00
+- expected_values:
+    RANGER_VSS: 3
+  response: 7E80462F40D03
+- expected_values:
+    RANGER_VSS: 6
+  response: 7E80462F40D06
+- expected_values:
+    RANGER_VSS: 9
+  response: 7E80462F40D09
+- expected_values:
+    RANGER_VSS: 11
+  response: 7E80462F40D0B
+- expected_values:
+    RANGER_VSS: 20
+  response: 7E80462F40D14
+- expected_values:
+    RANGER_VSS: 49
+  response: 7E80462F40D31

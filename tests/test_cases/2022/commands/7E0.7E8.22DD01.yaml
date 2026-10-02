@@ -1,0 +1,8 @@
+command_id: 7E0.7E8.22DD01
+test_cases:
+- expected_values:
+    RANGER_ODO_7E0: 66409
+  response: 7E80662DD01010369
+- expected_values:
+    RANGER_ODO_7E0: 66410
+  response: 7E80662DD0101036A

@@ -1,0 +1,11 @@
+command_id: 7E0.7E8.220301
+test_cases:
+- expected_values:
+    RANGER_MAP_V: 0.50391
+  response: '7E8056203010204'
+- expected_values:
+    RANGER_MAP_V: 0.91406
+  response: 7E80562030103A8
+- expected_values:
+    RANGER_MAP_V: 1.54883
+  response: '7E8056203010632'
