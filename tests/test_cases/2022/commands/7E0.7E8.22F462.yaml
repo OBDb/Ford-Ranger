@@ -4,20 +4,5 @@ test_cases:
     RANGER_PCM_ACT_ENG_PCT_TRQ: 0
   response: 7E80462F4627D
 - expected_values:
-    RANGER_PCM_ACT_ENG_PCT_TRQ: 6
-  response: 7E80462F46283
-- expected_values:
-    RANGER_PCM_ACT_ENG_PCT_TRQ: 7
-  response: 7E80462F46284
-- expected_values:
-    RANGER_PCM_ACT_ENG_PCT_TRQ: 9
-  response: 7E80462F46286
-- expected_values:
-    RANGER_PCM_ACT_ENG_PCT_TRQ: 11
-  response: 7E80462F46288
-- expected_values:
-    RANGER_PCM_ACT_ENG_PCT_TRQ: 13
-  response: 7E80462F4628A
-- expected_values:
-    RANGER_PCM_ACT_ENG_PCT_TRQ: 15
-  response: 7E80462F4628C
+    RANGER_PCM_ACT_ENG_PCT_TRQ: 58
+  response: 7E80462F462B7

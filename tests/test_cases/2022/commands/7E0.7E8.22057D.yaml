@@ -1,6 +1,12 @@
 command_id: 7E0.7E8.22057D
 test_cases:
 - expected_values:
+    RANGER_AAT_ALT: 13
+  response: 7E80462057D6A
+- expected_values:
+    RANGER_AAT_ALT: 14
+  response: 7E80462057D6C
+- expected_values:
     RANGER_AAT_ALT: 15
   response: 7E80462057D6E
 - expected_values:

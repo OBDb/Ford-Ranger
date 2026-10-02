@@ -7,5 +7,5 @@ test_cases:
     RANGER_RPM: 1082
   response: 7E80562F40C10E8
 - expected_values:
-    RANGER_RPM: 1607.5
-  response: 7E80562F40C191E
+    RANGER_RPM: 1809
+  response: 7E80562F40C1C44

@@ -4,8 +4,8 @@ test_cases:
     RANGER_VCT_INT_ACT: 0
   response: '7E8056203180000'
 - expected_values:
-    RANGER_VCT_INT_ACT: -10.0625
-  response: 7E805620318FF5F
+    RANGER_VCT_INT_ACT: -16
+  response: 7E805620318FF00
 - expected_values:
     RANGER_VCT_INT_ACT: -0.0625
   response: 7E805620318FFFF

@@ -4,26 +4,11 @@ test_cases:
     RANGER_PCM_CYL_HEAD_T_SENS_2_RAW: 49.34375
   response: 7E8056205FC0C56
 - expected_values:
-    RANGER_PCM_CYL_HEAD_T_SENS_2_RAW: 51.1875
-  response: 7E8056205FC0CCC
-- expected_values:
-    RANGER_PCM_CYL_HEAD_T_SENS_2_RAW: 58.65625
-  response: 7E8056205FC0EAA
-- expected_values:
     RANGER_PCM_CYL_HEAD_T_SENS_2_RAW: 60.84375
   response: 7E8056205FC0F36
 - expected_values:
-    RANGER_PCM_CYL_HEAD_T_SENS_2_RAW: 61.17188
-  response: 7E8056205FC0F4B
-- expected_values:
-    RANGER_PCM_CYL_HEAD_T_SENS_2_RAW: 86.5
-  response: 7E8056205FC15A0
-- expected_values:
-    RANGER_PCM_CYL_HEAD_T_SENS_2_RAW: 87.04688
-  response: 7E8056205FC15C3
-- expected_values:
-    RANGER_PCM_CYL_HEAD_T_SENS_2_RAW: 87.57812
-  response: 7E8056205FC15E5
-- expected_values:
     RANGER_PCM_CYL_HEAD_T_SENS_2_RAW: 87.85938
   response: 7E8056205FC15F7
+- expected_values:
+    RANGER_PCM_CYL_HEAD_T_SENS_2_RAW: 90.40625
+  response: 7E8056205FC169A

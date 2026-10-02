@@ -7,5 +7,5 @@ test_cases:
     RANGER_IAT_SENS_V: 2.17498
   response: 7E80562127901BD
 - expected_values:
-    RANGER_IAT_SENS_V: 2.69795
-  response: '7E8056212790228'
+    RANGER_IAT_SENS_V: 2.59531
+  response: '7E8056212790213'
