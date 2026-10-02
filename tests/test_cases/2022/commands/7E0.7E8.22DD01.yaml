@@ -6,3 +6,21 @@ test_cases:
 - expected_values:
     RANGER_ODO_7E0: 66410
   response: 7E80662DD0101036A
+- expected_values:
+    RANGER_ODO_7E0: 66411
+  response: 7E80662DD0101036B
+- expected_values:
+    RANGER_ODO_7E0: 66412
+  response: 7E80662DD0101036C
+- expected_values:
+    RANGER_ODO_7E0: 66413
+  response: 7E80662DD0101036D
+- expected_values:
+    RANGER_ODO_7E0: 66414
+  response: 7E80662DD0101036E
+- expected_values:
+    RANGER_ODO_7E0: 66415
+  response: 7E80662DD0101036F
+- expected_values:
+    RANGER_ODO_7E0: 66416
+  response: 7E80662DD01010370

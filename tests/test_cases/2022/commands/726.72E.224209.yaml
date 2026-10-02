@@ -10,5 +10,5 @@ test_cases:
     RANGER_BAT_CURRENT: 51
   response: 72E076242090000CC80
 - expected_values:
-    RANGER_BAT_CURRENT: 93
-  response: 72E07624209000174E0
+    RANGER_BAT_CURRENT: 90.25
+  response: '72E0762420900016940'

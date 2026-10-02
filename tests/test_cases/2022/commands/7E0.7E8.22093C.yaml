@@ -4,11 +4,11 @@ test_cases:
     RANGER_ETC_ANG_ACT: 2.27344
   response: 7E80562093C048C
 - expected_values:
-    RANGER_ETC_ANG_ACT: 4.04688
-  response: 7E80562093C0818
+    RANGER_ETC_ANG_ACT: 2.50781
+  response: 7E80562093C0504
 - expected_values:
     RANGER_ETC_ANG_ACT: 7.49219
   response: 7E80562093C0EFC
 - expected_values:
-    RANGER_ETC_ANG_ACT: 9.59375
-  response: 7E80562093C1330
+    RANGER_ETC_ANG_ACT: 29.98438
+  response: 7E80562093C3BF8

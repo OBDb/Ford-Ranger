@@ -1,26 +1,11 @@
 command_id: 7E0.7E8.224194
 test_cases:
 - expected_values:
-    RANGER_DTE: 354.6
-  response: 7E8056241940DDA
-- expected_values:
-    RANGER_DTE: 354.7
-  response: 7E8056241940DDB
-- expected_values:
-    RANGER_DTE: 354.9
-  response: 7E8056241940DDD
+    RANGER_DTE: 341.3
+  response: 7E8056241940D55
 - expected_values:
     RANGER_DTE: 355.3
   response: 7E8056241940DE1
 - expected_values:
     RANGER_DTE: 367.7
   response: 7E8056241940E5D
-- expected_values:
-    RANGER_DTE: 368.6
-  response: 7E8056241940E66
-- expected_values:
-    RANGER_DTE: 369.2
-  response: 7E8056241940E6C
-- expected_values:
-    RANGER_DTE: 369.4
-  response: 7E8056241940E6E

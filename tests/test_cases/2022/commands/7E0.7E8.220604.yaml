@@ -1,8 +1,8 @@
 command_id: 7E0.7E8.220604
 test_cases:
 - expected_values:
-    RANGER_PCM_A_C_REFRIG_P: 573
-  response: 7E805620604023D
+    RANGER_PCM_A_C_REFRIG_P: 557
+  response: 7E805620604022D
 - expected_values:
     RANGER_PCM_A_C_REFRIG_P: 690
   response: 7E80562060402B2
