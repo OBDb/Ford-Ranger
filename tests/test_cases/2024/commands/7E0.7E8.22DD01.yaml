@@ -6,3 +6,6 @@ test_cases:
 - expected_values:
     RANGER_ODO_7E0: 24293
   response: 7E80662DD01005EE5
+- expected_values:
+    RANGER_ODO_7E0: 24884
+  response: 7E80662DD01006134
