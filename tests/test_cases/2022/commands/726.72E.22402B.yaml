@@ -1,0 +1,8 @@
+command_id: 726.72E.22402B
+test_cases:
+- expected_values:
+    RANGER_VEH_BAT_CURRENT: -11
+  response: 72E0462402B74
+- expected_values:
+    RANGER_VEH_BAT_CURRENT: 51
+  response: 72E0462402BB2

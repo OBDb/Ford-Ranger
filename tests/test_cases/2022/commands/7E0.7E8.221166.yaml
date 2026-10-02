@@ -1,0 +1,11 @@
+command_id: 7E0.7E8.221166
+test_cases:
+- expected_values:
+    RANGER_EVAP_PURGE_CMD: 0
+  response: '7E8056211660000'
+- expected_values:
+    RANGER_EVAP_PURGE_CMD: 40.60669
+  response: 7E80562116633FA
+- expected_values:
+    RANGER_EVAP_PURGE_CMD: 85.94666
+  response: 7E8056211666E03
