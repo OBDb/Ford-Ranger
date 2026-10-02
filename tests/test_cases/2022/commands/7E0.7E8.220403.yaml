@@ -1,0 +1,23 @@
+command_id: 7E0.7E8.220403
+test_cases:
+- expected_values:
+    RANGER_KS1_RAW: 17
+  response: '7E8056204030011'
+- expected_values:
+    RANGER_KS1_RAW: 18
+  response: '7E8056204030012'
+- expected_values:
+    RANGER_KS1_RAW: 21
+  response: '7E8056204030015'
+- expected_values:
+    RANGER_KS1_RAW: 25
+  response: '7E8056204030019'
+- expected_values:
+    RANGER_KS1_RAW: 29
+  response: 7E805620403001D
+- expected_values:
+    RANGER_KS1_RAW: 30
+  response: 7E805620403001E
+- expected_values:
+    RANGER_KS1_RAW: 38
+  response: '7E8056204030026'

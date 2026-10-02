@@ -3,3 +3,18 @@ test_cases:
 - expected_values:
     RANGER_TP_RR: 28.85
   response: '72E056228150241'
+- expected_values:
+    RANGER_TP_RR: 38.9
+  response: 72E05622815030A
+- expected_values:
+    RANGER_TP_RR: 39.15
+  response: 72E05622815030F
+- expected_values:
+    RANGER_TP_RR: 39.4
+  response: '72E056228150314'
+- expected_values:
+    RANGER_TP_RR: 45.15
+  response: '72E056228150387'
+- expected_values:
+    RANGER_TP_RR: 46.4
+  response: 72E0562281503A0
