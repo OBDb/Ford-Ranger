@@ -1,14 +1,14 @@
 command_id: 7E0.7E8.22038E
 test_cases:
 - expected_values:
-    RANGER_EVAP_V: 5
+    RANGER_EVAP_V: 1.581
   response: 7E80562038E062D
 - expected_values:
-    RANGER_EVAP_V: 5
+    RANGER_EVAP_V: 1.821
   response: 7E80562038E071D
 - expected_values:
-    RANGER_EVAP_V: 5
+    RANGER_EVAP_V: 2.512
   response: 7E80562038E09D0
 - expected_values:
-    RANGER_EVAP_V: 5
+    RANGER_EVAP_V: 2.607
   response: 7E80562038E0A2F
