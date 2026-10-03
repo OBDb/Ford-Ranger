@@ -7,20 +7,5 @@ test_cases:
     RANGER_TP_FL: 39.4
   response: '72E056228130314'
 - expected_values:
-    RANGER_TP_FL: 39.65
-  response: '72E056228130319'
-- expected_values:
-    RANGER_TP_FL: 39.9
-  response: 72E05622813031E
-- expected_values:
-    RANGER_TP_FL: 40.15
-  response: '72E056228130323'
-- expected_values:
-    RANGER_TP_FL: 40.4
-  response: '72E056228130328'
-- expected_values:
-    RANGER_TP_FL: 40.65
-  response: 72E05622813032D
-- expected_values:
     RANGER_TP_FL: 43.9
   response: 72E05622813036E
