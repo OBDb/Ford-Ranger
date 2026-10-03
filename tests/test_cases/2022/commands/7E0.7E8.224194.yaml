@@ -1,6 +1,9 @@
 command_id: 7E0.7E8.224194
 test_cases:
 - expected_values:
+    RANGER_DTE: 319.5
+  response: 7E8056241940C7B
+- expected_values:
     RANGER_DTE: 341.3
   response: 7E8056241940D55
 - expected_values:
