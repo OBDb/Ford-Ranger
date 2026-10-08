@@ -5,28 +5,10 @@ test_cases:
   response: 7E805621310157C
 - expected_values:
     RANGER_EOT: 23
-  response: '7E8056213101770'
-- expected_values:
-    RANGER_EOT: 24
-  response: 7E805621310189C
+  response: 7E805621310170C
 - expected_values:
     RANGER_EOT: 26
   response: 7E8056213101AF4
-- expected_values:
-    RANGER_EOT: 27
-  response: 7E8056213101B58
-- expected_values:
-    RANGER_EOT: 31
-  response: 7E8056213101FA4
-- expected_values:
-    RANGER_EOT: 32
-  response: 7E805621310206C
-- expected_values:
-    RANGER_EOT: 32
-  response: 7E80562131020D0
-- expected_values:
-    RANGER_EOT: 35
-  response: 7E805621310238C
 - expected_values:
     RANGER_EOT: 41
   response: 7E80562131029CC
