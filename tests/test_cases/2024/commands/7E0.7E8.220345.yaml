@@ -10,5 +10,8 @@ test_cases:
     RANGER_PCM_MISF_EVENTS_LATEST_CYC: 3
   response: '7E80762034500000003'
 - expected_values:
+    RANGER_PCM_MISF_EVENTS_LATEST_CYC: 5
+  response: '7E80762034500000005'
+- expected_values:
     RANGER_PCM_MISF_EVENTS_LATEST_CYC: 7
   response: '7E80762034500000007'
