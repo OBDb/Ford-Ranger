@@ -1,8 +1,8 @@
 command_id: 7E0.7E8.22035A
 test_cases:
 - expected_values:
+    RANGER_BARO_V: 3.66569
+  response: 7E80562035A02EE
+- expected_values:
     RANGER_BARO_V: 3.8172
   response: 7E80562035A030D
-- expected_values:
-    RANGER_BARO_V: 3.93451
-  response: 7E80562035A0325

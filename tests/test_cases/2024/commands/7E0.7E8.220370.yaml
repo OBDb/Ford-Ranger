@@ -4,6 +4,9 @@ test_cases:
     RANGER_MAP_HIRES: 21
   response: '7E8056203700054'
 - expected_values:
+    RANGER_MAP_HIRES: 64.25
+  response: '7E8056203700101'
+- expected_values:
     RANGER_MAP_HIRES: 126
   response: 7E80562037001F8
 - expected_values:
