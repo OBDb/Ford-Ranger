@@ -1,5 +1,8 @@
 command_id: 726.72E.224025
 test_cases:
 - expected_values:
+    RANGER_BAT_QUIESCENT: 40
+  response: '72E056240250820'
+- expected_values:
     RANGER_BAT_QUIESCENT: 59
   response: '72E056240250846'

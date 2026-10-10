@@ -6,3 +6,6 @@ test_cases:
 - expected_values:
     RANGER_DIST_DTC_CLR: 5347
   response: 7E80562F43114E3
+- expected_values:
+    RANGER_DIST_DTC_CLR: 7177
+  response: 7E80562F4311C09

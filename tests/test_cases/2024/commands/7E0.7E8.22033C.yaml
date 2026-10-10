@@ -1,8 +1,8 @@
 command_id: 7E0.7E8.22033C
 test_cases:
 - expected_values:
-    RANGER_TIP_V: 1.40137
-  response: 7E80562033C011F
+    RANGER_TIP_V: 1.38184
+  response: 7E80562033C011B
 - expected_values:
     RANGER_TIP_V: 2.25098
   response: 7E80562033C01CD
