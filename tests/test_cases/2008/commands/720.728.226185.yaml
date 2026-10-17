@@ -1,0 +1,8 @@
+command_id: 720.728.226185
+test_cases:
+- expected_values:
+    RANGER_FLI: 36.07843
+  response: 728046261855C
+- expected_values:
+    RANGER_FLI: 36.86275
+  response: 728046261855E
