@@ -1,0 +1,5 @@
+command_id: 7E0.7E8.22048F
+test_cases:
+- expected_values:
+    RANGER_FUEL_CORR_CYL_6: 0
+  response: 7E80762048F00000000

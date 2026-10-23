@@ -1,0 +1,5 @@
+command_id: 7E0.7E8.220508
+test_cases:
+- expected_values:
+    RANGER_CHG_AIR_COOLER_T: 5760
+  response: 7E80562050802D0

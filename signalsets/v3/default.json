@@ -22,7 +22,7 @@
   "signals": [
     {"id": "RANGER_ODO_TRIP", "path": "Trips", "fmt": { "len": 24, "max": 1677721, "div": 10, "unit": "kilometers" }, "name": "Trip distance"}
   ]},
-{ "hdr": "726", "rax": "72E", "cmd": {"22": "280B"}, "freq": 5, "dbgfilter": { "to": 2021, "years": [2023], "from": 2025 },
+{ "hdr": "726", "rax": "72E", "cmd": {"22": "280B"}, "freq": 5, "dbgfilter": { "to": 2021, "from": 2025 },
   "signals": [
     {"id": "RANGER_TYRE_T", "path": "Tires", "fmt": {"bix": 48, "len": 8, "max": 215, "min": -40, "add": -40, "unit": "celsius" }, "name": "Tire temperature"}
   ]},
@@ -42,19 +42,19 @@
   "signals": [
     {"id": "RANGER_TP_RL", "path": "Tires", "fmt": { "len": 16, "max": 3276, "div": 20, "unit": "psi" }, "name": "Rear left outer tire pressure", "suggestedMetric": "rearLeftTirePressure"}
   ]},
-{ "hdr": "726", "rax": "72E", "cmd": {"22": "401E"}, "freq": 1, "dbgfilter": { "to": 2021, "years": [2023], "from": 2025 },
+{ "hdr": "726", "rax": "72E", "cmd": {"22": "401E"}, "freq": 1, "dbgfilter": { "to": 2021, "from": 2025 },
   "signals": [
     {"id": "RANGER_NORM_CUM_CHG_IGN_ON", "path": "Battery", "fmt": { "len": 16, "max": 6553.5, "div": 10, "unit": "scalar" }, "name": "Normalized cumulative charge when ignition is on"}
   ]},
-{ "hdr": "726", "rax": "72E", "cmd": {"22": "4021"}, "freq": 1, "dbgfilter": { "to": 2021, "years": [2023], "from": 2025 },
+{ "hdr": "726", "rax": "72E", "cmd": {"22": "4021"}, "freq": 1, "dbgfilter": { "to": 2021, "from": 2025 },
   "signals": [
     {"id": "RANGER_NORM_CUM_DCHG_BAT_ON", "path": "Battery", "fmt": { "len": 16, "max": 6553.5, "div": 10, "unit": "scalar" }, "name": "Normalized cumulative discharge from battery with engine on"}
   ]},
-{ "hdr": "726", "rax": "72E", "cmd": {"22": "4025"}, "freq": 1, "dbgfilter": { "to": 2021, "years": [2023], "from": 2025 },
+{ "hdr": "726", "rax": "72E", "cmd": {"22": "4025"}, "freq": 1, "dbgfilter": { "to": 2021, "from": 2025 },
   "signals": [
     {"id": "RANGER_BAT_QUIESCENT", "path": "Battery", "fmt": { "len": 16, "max": 31767.5, "min": -1000, "div": 2, "add": -1000, "unit": "milliamps" }, "name": "Battery quiescent current, low range"}
   ]},
-{ "hdr": "726", "rax": "72E", "cmd": {"22": "4026"}, "freq": 1, "dbgfilter": { "to": 2021, "years": [2023], "from": 2025 },
+{ "hdr": "726", "rax": "72E", "cmd": {"22": "4026"}, "freq": 1, "dbgfilter": { "to": 2021, "from": 2025 },
   "signals": [
     {"id": "RANGER_NORM_CUM_DCHG_BAT_OFF", "path": "Battery", "fmt": { "len": 16, "max": 6553.5, "div": 10, "unit": "scalar" }, "name": "Normalized cumulative discharge from battery with engine off"}
   ]},
@@ -90,7 +90,7 @@
   "signals": [
     {"id": "RANGER_BAT_CURRENT_726", "path": "Engine", "fmt": { "len": 16, "max": 3584.2375, "min": -511.7, "div": 16, "add": -511.7, "unit": "amps" }, "name": "Battery current"}
   ]},
-{ "hdr": "726", "rax": "72E", "cmd": {"22": "41A9"}, "freq": 5, "dbgfilter": { "to": 2021, "years": [2023], "from": 2025 },
+{ "hdr": "726", "rax": "72E", "cmd": {"22": "41A9"}, "freq": 5, "dbgfilter": { "to": 2021, "from": 2025 },
   "signals": [
     {"id": "RANGER_BAT_CURRENT_TOO_HIGH", "path": "Battery", "fmt": {"bix": 2,  "len": 1, "max": 1, "unit": "offon" }, "name": "Battery current too high for start/stop"},
     {"id": "RANGER_BAT_V_TOO_LOW_START",  "path": "Battery", "fmt": {"bix": 3,  "len": 1, "max": 1, "unit": "offon" }, "name": "Battery voltage too low for start/stop"},
@@ -101,19 +101,19 @@
     {"id": "RANGER_BAT_T_TOO_LOW_AUTO",   "path": "Battery", "fmt": {"bix": 13, "len": 1, "max": 1, "unit": "offon" }, "name": "Battery temperature too low for auto stop"},
     {"id": "RANGER_BAT_REFRESH_CYCLE",    "path": "Battery", "fmt": {"bix": 14, "len": 1, "max": 1, "unit": "offon" }, "name": "Battery refresh cycle in progress for start/stop"}
   ]},
-{ "hdr": "726", "rax": "72E", "cmd": {"22": "41E8"}, "freq": 1, "dbgfilter": { "to": 2021, "years": [2023], "from": 2025 },
+{ "hdr": "726", "rax": "72E", "cmd": {"22": "41E8"}, "freq": 1, "dbgfilter": { "to": 2021, "from": 2025 },
   "signals": [
     {"id": "RANGER_VEH_BAT_B_V", "path": "Battery", "fmt": { "len": 8, "max": 18.75, "min": 6, "div": 20, "add": 6, "unit": "volts" }, "name": "Second battery voltage"}
   ]},
-{ "hdr": "726", "rax": "72E", "cmd": {"22": "4209"}, "freq": 1, "dbgfilter": { "to": 2021, "years": [2023], "from": 2025 },
+{ "hdr": "726", "rax": "72E", "cmd": {"22": "4209"}, "freq": 1, "dbgfilter": { "to": 2021, "from": 2025 },
   "signals": [
     {"id": "RANGER_BAT_CURRENT", "path": "Battery", "fmt": { "len": 24, "max": 2097151.75, "min": -2097152, "div": 4, "sign": true, "unit": "amps" }, "name": "Battery current, predicted"}
   ]},
-{ "hdr": "726", "rax": "72E", "cmd": {"22": "420A"}, "freq": 1, "dbgfilter": { "to": 2021, "years": [2023], "from": 2025 },
+{ "hdr": "726", "rax": "72E", "cmd": {"22": "420A"}, "freq": 1, "dbgfilter": { "to": 2021, "from": 2025 },
   "signals": [
     {"id": "RANGER_BAT_ST_DETECTION", "path": "Battery", "fmt": { "len": 8, "max": 255, "unit": "scalar" }, "name": "Battery state detection status"}
   ]},
-{ "hdr": "726", "rax": "72E", "cmd": {"22": "423C"}, "freq": 1, "dbgfilter": { "to": 2021, "years": [2023], "from": 2025 },
+{ "hdr": "726", "rax": "72E", "cmd": {"22": "423C"}, "freq": 1, "dbgfilter": { "to": 2021, "from": 2025 },
   "signals": [
     {"id": "RANGER_VEH_BAT_B_CURRENT", "path": "Battery", "fmt": { "len": 16, "max": 1023.96, "min": -1024, "div": 32, "sign": true, "unit": "amps" }, "name": "Second battery current"}
   ]},
@@ -159,7 +159,7 @@
   "signals": [
     {"id": "RANGER_MAP_V", "path": "Engine", "fmt": { "len": 16, "max": 5, "div": 1024, "unit": "volts" }, "name": "Manifold pressure sensor voltage", "description": "Typically varies from 1 volt at idle to 5 volts during wide open throttle."}
   ]},
-{ "hdr": "7E0", "rax": "7E8", "cmd": {"22": "0304"}, "freq": 1, "dbgfilter": { "to": 2021, "years": [2023], "from": 2025 },
+{ "hdr": "7E0", "rax": "7E8", "cmd": {"22": "0304"}, "freq": 1, "dbgfilter": { "to": 2021, "from": 2025 },
   "signals": [
     {"id": "RANGER_CMD_GEN_V", "path": "Battery", "fmt": { "len": 16, "max": 16, "mul": 0.000488, "unit": "volts" }, "name": "Commanded generator voltage"}
   ]},
@@ -283,7 +283,7 @@
   "signals": [
     {"id": "RANGER_TRQ_CTRL_REQ", "path": "Engine", "fmt": { "len": 8, "max": 100, "unit": "percent" }, "name": "Torque request"}
   ]},
-{ "hdr": "7E0", "rax": "7E8", "cmd": {"22": "03B9"}, "freq": 0.25, "dbgfilter": { "to": 2021, "years": [2023], "from": 2025 },
+{ "hdr": "7E0", "rax": "7E8", "cmd": {"22": "03B9"}, "freq": 0.25, "dbgfilter": { "to": 2021, "from": 2025 },
   "signals": [
     {"id": "RANGER_FAN_SPD_DES", "path": "Movement", "fmt": { "len": 16, "max": 100, "mul": 40, "div": 13107, "unit": "percent" }, "name": "Fan speed, desired"}
   ]},
@@ -319,15 +319,15 @@
   "signals": [
     {"id": "RANGER_IGN_CORR_CYL1", "path": "Engine", "fmt": { "len": 16, "max": 63.9, "min": -64, "div": 512, "sign": true, "unit": "degrees" }, "name": "Ignition correction, cylinder 1"}
   ]},
-{ "hdr": "7E0", "rax": "7E8", "dbg": true, "cmd": {"22": "03F3"}, "freq": 5,
+{ "hdr": "7E0", "rax": "7E8", "cmd": {"22": "03F3"}, "freq": 5, "dbgfilter": { "to": 2022, "from": 2024 },
   "signals": [
     {"id": "RANGER_SUMP_OIL_T_MEAS", "path": "Engine", "fmt": { "len": 8, "max": 215, "min": -40, "add": -40, "unit": "celsius" }, "name": "Sump oil temperature measured"}
   ]},
-{ "hdr": "7E0", "rax": "7E8", "dbg": true, "cmd": {"22": "03F4"}, "freq": 5,
+{ "hdr": "7E0", "rax": "7E8", "cmd": {"22": "03F4"}, "freq": 5, "dbgfilter": { "to": 2022, "from": 2024 },
   "signals": [
     {"id": "RANGER_EXH_GAS_T_1", "path": "Engine", "fmt": { "len": 8, "max": 1275, "mul": 5, "unit": "celsius" }, "name": "Exhaust gas temperature 1"}
   ]},
-{ "hdr": "7E0", "rax": "7E8", "dbg": true, "cmd": {"22": "03F5"}, "freq": 5,
+{ "hdr": "7E0", "rax": "7E8", "cmd": {"22": "03F5"}, "freq": 5, "dbgfilter": { "to": 2022, "from": 2024 },
   "signals": [
     {"id": "RANGER_EXH_GAS_T_2", "path": "Engine", "fmt": { "len": 8, "max": 1275, "mul": 5, "unit": "celsius" }, "name": "Exhaust gas temperature 2"}
   ]},
@@ -371,19 +371,19 @@
   "signals": [
     {"id": "RANGER_INJ_MODE", "path": "Engine", "fmt": { "len": 8, "max": 7, "unit": "scalar" }, "name": "Injection mode"}
   ]},
-{ "hdr": "7E0", "rax": "7E8", "dbg": true, "cmd": {"22": "048F"}, "freq": 1,
+{ "hdr": "7E0", "rax": "7E8", "cmd": {"22": "048F"}, "freq": 1, "dbgfilter": { "to": 2022, "from": 2024 },
   "signals": [
     {"id": "RANGER_FUEL_CORR_CYL_6", "path": "Fuel", "fmt": { "len": 16, "max": 16383, "min": -16384, "div": 2, "sign": true, "unit": "unknown" }, "name": "Fuel correction, cylinder 6"}
   ]},
-{ "hdr": "7E0", "rax": "7E8", "cmd": {"22": "04F7"}, "freq": 1, "dbgfilter": { "to": 2021, "years": [2023], "from": 2025 },
+{ "hdr": "7E0", "rax": "7E8", "cmd": {"22": "04F7"}, "freq": 1, "dbgfilter": { "to": 2021, "from": 2025 },
   "signals": [
     {"id": "RANGER_GEN_CURRENT", "path": "Engine", "fmt": { "len": 16, "max": 511.8205, "min": -511.8361, "mul": 781, "div": 50000, "sign": true, "unit": "amps" }, "name": "Generator current"}
   ]},
-{ "hdr": "7E0", "rax": "7E8", "dbg": true, "cmd": {"22": "0508"}, "freq": 5,
+{ "hdr": "7E0", "rax": "7E8", "cmd": {"22": "0508"}, "freq": 5, "dbgfilter": { "to": 2022, "from": 2024 },
   "signals": [
     {"id": "RANGER_CHG_AIR_COOLER_T", "path": "Battery", "fmt": { "len": 16, "max": 524280, "mul": 8, "unit": "unknown" }, "name": "Charge air cooler temperature"}
   ]},
-{ "hdr": "7E0", "rax": "7E8", "dbg": true, "cmd": {"22": "051C"}, "freq": 5,
+{ "hdr": "7E0", "rax": "7E8", "cmd": {"22": "051C"}, "freq": 5, "dbgfilter": { "to": 2022, "from": 2024 },
   "signals": [
     {"id": "RANGER_CHG_AIR_T", "path": "Battery", "fmt": { "len": 8, "max": 215, "min": -40, "add": -40, "unit": "celsius" }, "name": "Charge air temperature"}
   ]},
@@ -391,19 +391,19 @@
   "signals": [
     {"id": "RANGER_CYL_HEAD_T", "path": "Engine", "fmt": { "len": 8, "max": 215, "min": -40, "add": -40, "unit": "celsius" }, "name": "Cylinder head temperature"}
   ]},
-{ "hdr": "7E0", "rax": "7E8", "dbg": true, "cmd": {"22": "0522"}, "freq": 5,
+{ "hdr": "7E0", "rax": "7E8", "cmd": {"22": "0522"}, "freq": 5, "dbgfilter": { "to": 2022, "from": 2024 },
   "signals": [
     {"id": "RANGER_FUEL_T", "path": "Fuel", "fmt": { "len": 8, "max": 215, "min": -40, "add": -40, "unit": "celsius" }, "name": "Fuel temperature"}
   ]},
-{ "hdr": "7E0", "rax": "7E8", "dbg": true, "cmd": {"22": "052E"}, "freq": 1,
+{ "hdr": "7E0", "rax": "7E8", "cmd": {"22": "052E"}, "freq": 1, "dbgfilter": { "to": 2022, "from": 2024 },
   "signals": [
     {"id": "RANGER_EGR_OPEN", "path": "Engine", "fmt": { "len": 8, "max": 100, "mul": 20, "div": 51, "unit": "percent" }, "name": "Exhaust gas recirculation open"}
   ]},
-{ "hdr": "7E0", "rax": "7E8", "dbg": true, "cmd": {"22": "053F"}, "freq": 30,
+{ "hdr": "7E0", "rax": "7E8", "cmd": {"22": "053F"}, "freq": 30, "dbgfilter": { "to": 2022, "from": 2024 },
   "signals": [
     {"id": "RANGER_TIME_SINCE_OIL", "path": "Engine", "fmt": { "len": 16, "max": 1000, "mul": 200, "div": 13107, "unit": "unknown" }, "name": "Time since last oil change"}
   ]},
-{ "hdr": "7E0", "rax": "7E8", "dbg": true, "cmd": {"22": "0542"}, "freq": 30,
+{ "hdr": "7E0", "rax": "7E8", "cmd": {"22": "0542"}, "freq": 30, "dbgfilter": { "to": 2022, "from": 2024 },
   "signals": [
     {"id": "RANGER_DIST_SINCE_OIL", "path": "Trips", "fmt": { "len": 16, "max": 65535, "unit": "kilometers" }, "name": "Distance since last oil change"}
   ]},
@@ -459,7 +459,7 @@
   "signals": [
     {"id": "RANGER_TURBO_INLET_P", "path": "Engine", "fmt": { "len": 16, "max": 4095.9375, "div": 16, "unit": "kilopascal" }, "name": "Turbo inlet pressure"}
   ]},
-{ "hdr": "7E0", "rax": "7E8", "dbg": true, "cmd": {"22": "05EF"}, "freq": 1,
+{ "hdr": "7E0", "rax": "7E8", "cmd": {"22": "05EF"}, "freq": 1, "dbgfilter": { "to": 2022, "from": 2024 },
   "signals": [
     {"id": "RANGER_EOP_DES", "path": "Engine", "fmt": { "len": 16, "max": 65535, "unit": "kilopascal" }, "name": "Engine oil pressure - desired"}
   ]},
@@ -479,7 +479,7 @@
   "signals": [
     {"id": "RANGER_GRILL_SHUT_DC", "path": "Engine", "fmt": { "len": 8, "max": 100, "mul": 100, "div": 255, "unit": "percent" }, "name": "Grill shutter duty cycle"}
   ]},
-{ "hdr": "7E0", "rax": "7E8", "dbg": true, "cmd": {"22": "070D"}, "freq": 5,
+{ "hdr": "7E0", "rax": "7E8", "cmd": {"22": "070D"}, "freq": 5, "dbgfilter": { "to": 2022, "from": 2024 },
   "signals": [
     {"id": "RANGER_TRANSFER_CASE_FLUID_T", "path": "Engine", "fmt": { "len": 16, "max": 2047.9375, "min": -2048, "div": 16, "sign": true, "unit": "celsius" }, "name": "Transfer case fluid temperature"}
   ]},
@@ -495,19 +495,19 @@
   "signals": [
     {"id": "RANGER_ETC_ANG_ACT", "path": "Engine", "fmt": { "len": 16, "max": 127.99, "div": 512, "unit": "degrees" }, "name": "Throttle angle, actual"}
   ]},
-{ "hdr": "7E0", "rax": "7E8", "dbg": true, "cmd": {"22": "098A"}, "freq": 1,
+{ "hdr": "7E0", "rax": "7E8", "cmd": {"22": "098A"}, "freq": 1, "dbgfilter": { "to": 2022, "from": 2024 },
   "signals": [
     {"id": "RANGER_FUEL_CORR_CYL_1", "path": "Fuel", "fmt": { "len": 16, "max": 16383, "min": -16384, "div": 2, "sign": true, "unit": "unknown" }, "name": "Fuel correction, cylinder 1"}
   ]},
-{ "hdr": "7E0", "rax": "7E8", "dbg": true, "cmd": {"22": "098B"}, "freq": 1,
+{ "hdr": "7E0", "rax": "7E8", "cmd": {"22": "098B"}, "freq": 1, "dbgfilter": { "to": 2022, "from": 2024 },
   "signals": [
     {"id": "RANGER_FUEL_CORR_CYL_2", "path": "Fuel", "fmt": { "len": 16, "max": 16383, "min": -16384, "div": 2, "sign": true, "unit": "unknown" }, "name": "Fuel correction, cylinder 2"}
   ]},
-{ "hdr": "7E0", "rax": "7E8", "dbg": true, "cmd": {"22": "098C"}, "freq": 1,
+{ "hdr": "7E0", "rax": "7E8", "cmd": {"22": "098C"}, "freq": 1, "dbgfilter": { "to": 2022, "from": 2024 },
   "signals": [
     {"id": "RANGER_FUEL_CORR_CYL_3", "path": "Fuel", "fmt": { "len": 16, "max": 16383, "min": -16384, "div": 2, "sign": true, "unit": "unknown" }, "name": "Fuel correction, cylinder 3"}
   ]},
-{ "hdr": "7E0", "rax": "7E8", "dbg": true, "cmd": {"22": "098D"}, "freq": 1,
+{ "hdr": "7E0", "rax": "7E8", "cmd": {"22": "098D"}, "freq": 1, "dbgfilter": { "to": 2022, "from": 2024 },
   "signals": [
     {"id": "RANGER_FUEL_CORR_CYL_4", "path": "Fuel", "fmt": { "len": 16, "max": 16383, "min": -16384, "div": 2, "sign": true, "unit": "unknown" }, "name": "Fuel correction, cylinder 4"}
   ]},
@@ -583,7 +583,7 @@
   "signals": [
     {"id": "RANGER_TQ_CONV_LINE_P", "path": "Transmission", "fmt": { "len": 8, "max": 8790.819, "mul": 172369, "div": 5000, "unit": "kilopascal" }, "name": "Torque converter line pressure"}
   ]},
-{ "hdr": "7E0", "rax": "7E8", "dbg": true, "cmd": {"22": "11D3"}, "freq": 1,
+{ "hdr": "7E0", "rax": "7E8", "cmd": {"22": "11D3"}, "freq": 1, "dbgfilter": { "to": 2022, "from": 2024 },
   "signals": [
     {"id": "RANGER_FUEL_CORR_CYL_5", "path": "Fuel", "fmt": { "len": 16, "max": 16383, "min": -16384, "div": 2, "sign": true, "unit": "unknown" }, "name": "Fuel correction, cylinder 5"}
   ]},
@@ -734,11 +734,11 @@
         }}
     }
   ]},
-{ "hdr": "7E0", "rax": "7E8", "dbg": true, "cmd": {"22": "1E62"}, "freq": 1,
+{ "hdr": "7E0", "rax": "7E8", "cmd": {"22": "1E62"}, "freq": 1, "dbgfilter": { "to": 2022, "from": 2024 },
   "signals": [
     {"id": "RANGER_AWD_CLU_DIAGNOSTIC", "path": "Transmission", "fmt": { "len": 8, "max": 100, "mul": 20, "div": 51, "unit": "percent" }, "name": "All-wheel drive clutch diagnostic signal"}
   ]},
-{ "hdr": "7E0", "rax": "7E8", "dbg": true, "cmd": {"22": "1E63"}, "freq": 1,
+{ "hdr": "7E0", "rax": "7E8", "cmd": {"22": "1E63"}, "freq": 1, "dbgfilter": { "to": 2022, "from": 2024 },
   "signals": [
     {"id": "RANGER_AWD_CLU_CMD_CTRL_SIG", "path": "Transmission", "fmt": { "len": 8, "max": 100, "mul": 20, "div": 51, "unit": "percent" }, "name": "All-wheel drive clutch, commanded control signal"}
   ]},
@@ -758,7 +758,7 @@
   "signals": [
     {"id": "RANGER_AC_P_SENS_V", "path": "Climate", "fmt": { "len": 16, "max": 5, "div": 1024, "sign": true, "unit": "volts" }, "name": "A/C compressor pressure sensor voltage"}
   ]},
-{ "hdr": "7E0", "rax": "7E8", "dbg": true, "cmd": {"22": "D113"}, "freq": 1,
+{ "hdr": "7E0", "rax": "7E8", "cmd": {"22": "D113"}, "freq": 1, "dbgfilter": { "to": 2022, "from": 2024 },
   "signals": [
     {"id": "RANGER_ALTERNATOR_CURRENT", "path": "Engine", "fmt": { "len": 16, "max": 3276, "div": 20, "unit": "amps" }, "name": "Alternator current output"}
   ]},
@@ -826,7 +826,7 @@
   "signals": [
     {"id": "RANGER_ENG_LOAD_ACT", "path": "Engine", "fmt": { "len": 16, "max": 25700, "mul": 100, "div": 255, "unit": "percent" }, "name": "Engine load, actual"}
   ]},
-{ "hdr": "7E0", "rax": "7E8", "cmd": {"22": "F45E"}, "freq": 1, "dbgfilter": { "to": 2021, "years": [2023], "from": 2025 },
+{ "hdr": "7E0", "rax": "7E8", "cmd": {"22": "F45E"}, "freq": 1, "dbgfilter": { "to": 2021, "from": 2025 },
   "signals": [
     {"id": "RANGER_ENG_FUEL_RATE", "path": "Fuel", "fmt": { "len": 16, "max": 3276.75, "div": 20, "unit": "liters" }, "name": "Engine fuel rate"}
   ]},
@@ -842,7 +842,7 @@
   "signals": [
     {"id": "RANGER_PCM_VEH_ODO", "path": "Trips", "fmt": { "len": 32, "max": 429496729.5, "div": 10, "unit": "kilometers" }, "name": "Vehicle odometer"}
   ]},
-{ "hdr": "7E0", "rax": "7E8", "dbg": true, "cmd": {"22": "F817"}, "freq": 30,
+{ "hdr": "7E0", "rax": "7E8", "cmd": {"22": "F817"}, "freq": 30, "dbgfilter": { "to": 2022, "from": 2024 },
   "signals": [
     {"id": "RANGER_TOT_DIST_LIFETIME", "path": "Trips", "fmt": {"bix": 32, "len": 32, "max": 429496729, "div": 10, "unit": "kilometers" }, "name": "Total distance, lifetime"}
   ]},
