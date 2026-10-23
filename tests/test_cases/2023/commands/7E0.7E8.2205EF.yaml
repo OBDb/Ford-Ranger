@@ -1,0 +1,5 @@
+command_id: 7E0.7E8.2205EF
+test_cases:
+- expected_values:
+    RANGER_EOP_DES: 600
+  response: 7E8056205EF0258

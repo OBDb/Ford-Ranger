@@ -1,0 +1,8 @@
+command_id: 726.72E.224209
+test_cases:
+- expected_values:
+    RANGER_BAT_CURRENT: 21
+  response: '72E0762420900005440'
+- expected_values:
+    RANGER_BAT_CURRENT: 21
+  response: '72E0762420900005460'

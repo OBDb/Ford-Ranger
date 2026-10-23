@@ -1,0 +1,5 @@
+command_id: 7E0.7E8.22052E
+test_cases:
+- expected_values:
+    RANGER_EGR_OPEN: 0.39216
+  response: 7E80462052E01
