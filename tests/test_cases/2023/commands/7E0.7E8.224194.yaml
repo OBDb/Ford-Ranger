@@ -1,0 +1,32 @@
+command_id: 7E0.7E8.224194
+test_cases:
+- expected_values:
+    RANGER_DTE: 405.7
+  response: 7E8056241940FD9
+- expected_values:
+    RANGER_DTE: 406.7
+  response: 7E8056241940FE3
+- expected_values:
+    RANGER_DTE: 406.8
+  response: 7E8056241940FE4
+- expected_values:
+    RANGER_DTE: 408.6
+  response: 7E8056241940FF6
+- expected_values:
+    RANGER_DTE: 408.8
+  response: 7E8056241940FF8
+- expected_values:
+    RANGER_DTE: 408.9
+  response: 7E8056241940FF9
+- expected_values:
+    RANGER_DTE: 409
+  response: 7E8056241940FFA
+- expected_values:
+    RANGER_DTE: 409.2
+  response: 7E8056241940FFC
+- expected_values:
+    RANGER_DTE: 409.4
+  response: 7E8056241940FFE
+- expected_values:
+    RANGER_DTE: 409.6
+  response: '7E8056241941000'

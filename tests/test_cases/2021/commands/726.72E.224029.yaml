@@ -1,6 +1,9 @@
 command_id: 726.72E.224029
 test_cases:
 - expected_values:
+    RANGER_12V_T: 30
+  response: '72E0462402946'
+- expected_values:
     RANGER_12V_T: 37
   response: 72E046240294D
 - expected_values:
@@ -9,3 +12,18 @@ test_cases:
 - expected_values:
     RANGER_12V_T: 39
   response: 72E046240294F
+- expected_values:
+    RANGER_12V_T: 42
+  response: '72E0462402952'
+- expected_values:
+    RANGER_12V_T: 43
+  response: '72E0462402953'
+- expected_values:
+    RANGER_12V_T: 44
+  response: '72E0462402954'
+- expected_values:
+    RANGER_12V_T: 45
+  response: '72E0462402955'
+- expected_values:
+    RANGER_12V_T: 46
+  response: '72E0462402956'

@@ -1,0 +1,26 @@
+command_id: 7E0.7E8.220382
+test_cases:
+- expected_values:
+    RANGER_PCM_MISF_ACCEL_CYL1_NORM: 0
+  response: '7E80462038200'
+- expected_values:
+    RANGER_PCM_MISF_ACCEL_CYL1_NORM: 0.125
+  response: '7E80462038208'
+- expected_values:
+    RANGER_PCM_MISF_ACCEL_CYL1_NORM: -0.48438
+  response: 7E804620382E1
+- expected_values:
+    RANGER_PCM_MISF_ACCEL_CYL1_NORM: -0.42188
+  response: 7E804620382E5
+- expected_values:
+    RANGER_PCM_MISF_ACCEL_CYL1_NORM: -0.40625
+  response: 7E804620382E6
+- expected_values:
+    RANGER_PCM_MISF_ACCEL_CYL1_NORM: -0.32812
+  response: 7E804620382EB
+- expected_values:
+    RANGER_PCM_MISF_ACCEL_CYL1_NORM: -0.20312
+  response: 7E804620382F3
+- expected_values:
+    RANGER_PCM_MISF_ACCEL_CYL1_NORM: -0.09375
+  response: 7E804620382FA

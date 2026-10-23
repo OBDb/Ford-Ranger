@@ -7,5 +7,5 @@ test_cases:
     RANGER_TIP_ABS: 19.25846
   response: 7E80562033E43FE
 - expected_values:
-    RANGER_TIP_ABS: 24.30487
-  response: 7E80562033E55CF
+    RANGER_TIP_ABS: 27.00233
+  response: 7E80562033E5F55

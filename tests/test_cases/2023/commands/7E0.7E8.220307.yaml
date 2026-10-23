@@ -1,0 +1,32 @@
+command_id: 7E0.7E8.220307
+test_cases:
+- expected_values:
+    RANGER_LPFP_DUTY: 20.7489
+  response: 7E8056203071A8F
+- expected_values:
+    RANGER_LPFP_DUTY: 21.31653
+  response: 7E8056203071B49
+- expected_values:
+    RANGER_LPFP_DUTY: 22.44568
+  response: 7E8056203071CBB
+- expected_values:
+    RANGER_LPFP_DUTY: 22.54028
+  response: 7E8056203071CDA
+- expected_values:
+    RANGER_LPFP_DUTY: 22.59216
+  response: 7E8056203071CEB
+- expected_values:
+    RANGER_LPFP_DUTY: 22.62573
+  response: 7E8056203071CF6
+- expected_values:
+    RANGER_LPFP_DUTY: 22.64099
+  response: 7E8056203071CFB
+- expected_values:
+    RANGER_LPFP_DUTY: 22.6532
+  response: 7E8056203071CFF
+- expected_values:
+    RANGER_LPFP_DUTY: 22.78137
+  response: 7E8056203071D29
+- expected_values:
+    RANGER_LPFP_DUTY: 75
+  response: '7E8056203076000'

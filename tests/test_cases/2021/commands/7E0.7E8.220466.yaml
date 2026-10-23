@@ -4,8 +4,8 @@ test_cases:
     RANGER_TIP_DES_ABS: 12.74492
   response: 7E8056204662CFF
 - expected_values:
-    RANGER_TIP_DES_ABS: 12.77369
-  response: 7E8056204662D19
+    RANGER_TIP_DES_ABS: 15.875
+  response: 7E805620466380C
 - expected_values:
-    RANGER_TIP_DES_ABS: 25.06609
-  response: 7E805620466587F
+    RANGER_TIP_DES_ABS: 30.39132
+  response: 7E8056204666B4C
