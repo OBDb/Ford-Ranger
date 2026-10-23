@@ -1,0 +1,26 @@
+command_id: 7E0.7E8.220338
+test_cases:
+- expected_values:
+    RANGER_ETC_TRIM_LRN: 0.25586
+  response: '7E8056203380083'
+- expected_values:
+    RANGER_ETC_TRIM_LRN: 0.26953
+  response: 7E805620338008A
+- expected_values:
+    RANGER_ETC_TRIM_LRN: 0.27344
+  response: 7E805620338008C
+- expected_values:
+    RANGER_ETC_TRIM_LRN: 0.29297
+  response: '7E8056203380096'
+- expected_values:
+    RANGER_ETC_TRIM_LRN: 0.29883
+  response: '7E8056203380099'
+- expected_values:
+    RANGER_ETC_TRIM_LRN: 0.31836
+  response: 7E80562033800A3
+- expected_values:
+    RANGER_ETC_TRIM_LRN: 0.36133
+  response: 7E80562033800B9
+- expected_values:
+    RANGER_ETC_TRIM_LRN: 0.36523
+  response: 7E80562033800BB

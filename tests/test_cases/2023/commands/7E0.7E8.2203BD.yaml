@@ -1,0 +1,26 @@
+command_id: 7E0.7E8.2203BD
+test_cases:
+- expected_values:
+    RANGER_CL_LC: 0
+  response: 7E8056203BD0000
+- expected_values:
+    RANGER_CL_LC: 0.00696
+  response: 7E8056203BD0039
+- expected_values:
+    RANGER_CL_LC: 0.00745
+  response: 7E8056203BD003D
+- expected_values:
+    RANGER_CL_LC: 0.00781
+  response: 7E8056203BD0040
+- expected_values:
+    RANGER_CL_LC: 0.01001
+  response: 7E8056203BD0052
+- expected_values:
+    RANGER_CL_LC: -0.00818
+  response: 7E8056203BDFFBD
+- expected_values:
+    RANGER_CL_LC: -0.00757
+  response: 7E8056203BDFFC2
+- expected_values:
+    RANGER_CL_LC: -0.00696
+  response: 7E8056203BDFFC7

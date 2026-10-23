@@ -7,8 +7,8 @@ test_cases:
     RANGER_MAP_V: 1.24902
   response: 7E80562030104FF
 - expected_values:
-    RANGER_MAP_V: 1.25391
-  response: '7E8056203010504'
+    RANGER_MAP_V: 1.50293
+  response: '7E8056203010603'
 - expected_values:
-    RANGER_MAP_V: 2.5918
-  response: 7E8056203010A5E
+    RANGER_MAP_V: 3.35352
+  response: 7E8056203010D6A

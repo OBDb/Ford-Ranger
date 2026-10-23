@@ -1,0 +1,5 @@
+command_id: 7E0.7E8.22DD01
+test_cases:
+- expected_values:
+    RANGER_ODO_7E0: 21182
+  response: 7E80662DD010052BE

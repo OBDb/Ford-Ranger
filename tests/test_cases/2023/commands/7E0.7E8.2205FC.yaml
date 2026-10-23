@@ -1,0 +1,11 @@
+command_id: 7E0.7E8.2205FC
+test_cases:
+- expected_values:
+    RANGER_PCM_CYL_HEAD_T_SENS_2_RAW: 40.5625
+  response: 7E8056205FC0A24
+- expected_values:
+    RANGER_PCM_CYL_HEAD_T_SENS_2_RAW: 75.45312
+  response: 7E8056205FC12DD
+- expected_values:
+    RANGER_PCM_CYL_HEAD_T_SENS_2_RAW: 84.0625
+  response: 7E8056205FC1504

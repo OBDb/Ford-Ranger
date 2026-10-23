@@ -1,0 +1,26 @@
+command_id: 7E0.7E8.221279
+test_cases:
+- expected_values:
+    RANGER_IAT_SENS_V: 2.50733
+  response: '7E8056212790201'
+- expected_values:
+    RANGER_IAT_SENS_V: 2.52688
+  response: '7E8056212790205'
+- expected_values:
+    RANGER_IAT_SENS_V: 2.76637
+  response: '7E8056212790236'
+- expected_values:
+    RANGER_IAT_SENS_V: 2.77126
+  response: '7E8056212790237'
+- expected_values:
+    RANGER_IAT_SENS_V: 2.77615
+  response: '7E8056212790238'
+- expected_values:
+    RANGER_IAT_SENS_V: 2.78592
+  response: 7E805621279023A
+- expected_values:
+    RANGER_IAT_SENS_V: 2.79081
+  response: 7E805621279023B
+- expected_values:
+    RANGER_IAT_SENS_V: 2.7957
+  response: 7E805621279023C

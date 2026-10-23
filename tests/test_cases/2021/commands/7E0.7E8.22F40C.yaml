@@ -1,14 +1,11 @@
 command_id: 7E0.7E8.22F40C
 test_cases:
 - expected_values:
-    RANGER_RPM: 700
-  response: 7E80562F40C0AF0
+    RANGER_RPM: 0
+  response: 7E80562F40C0000
 - expected_values:
-    RANGER_RPM: 702
-  response: 7E80562F40C0AF8
-- expected_values:
-    RANGER_RPM: 1216
-  response: 7E80562F40C1300
+    RANGER_RPM: 703
+  response: 7E80562F40C0AFC
 - expected_values:
     RANGER_RPM: 2511
   response: 7E80562F40C273C

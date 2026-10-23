@@ -1,0 +1,29 @@
+command_id: 7E0.7E8.224195
+test_cases:
+- expected_values:
+    RANGER_DTE_DISP: 408
+  response: 7E8056241950FF0
+- expected_values:
+    RANGER_DTE_DISP: 408.1
+  response: 7E8056241950FF1
+- expected_values:
+    RANGER_DTE_DISP: 409.4
+  response: 7E8056241950FFE
+- expected_values:
+    RANGER_DTE_DISP: 409.6
+  response: '7E8056241951000'
+- expected_values:
+    RANGER_DTE_DISP: 409.8
+  response: '7E8056241951002'
+- expected_values:
+    RANGER_DTE_DISP: 409.9
+  response: '7E8056241951003'
+- expected_values:
+    RANGER_DTE_DISP: 410.1
+  response: '7E8056241951005'
+- expected_values:
+    RANGER_DTE_DISP: 410.2
+  response: '7E8056241951006'
+- expected_values:
+    RANGER_DTE_DISP: 410.4
+  response: '7E8056241951008'
