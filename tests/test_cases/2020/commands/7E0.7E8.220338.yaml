@@ -1,0 +1,11 @@
+command_id: 7E0.7E8.220338
+test_cases:
+- expected_values:
+    RANGER_ETC_TRIM_LRN: 0.23438
+  response: '7E8056203380078'
+- expected_values:
+    RANGER_ETC_TRIM_LRN: 0.23633
+  response: '7E8056203380079'
+- expected_values:
+    RANGER_ETC_TRIM_LRN: 0.25977
+  response: '7E8056203380085'

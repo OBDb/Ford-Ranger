@@ -1,0 +1,8 @@
+command_id: 7E0.7E8.2203DC
+test_cases:
+- expected_values:
+    RANGER_HPFP_DES: 1510
+  response: 7E8056203DC0097
+- expected_values:
+    RANGER_HPFP_DES: 11030
+  response: 7E8056203DC044F

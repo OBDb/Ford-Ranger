@@ -1,0 +1,11 @@
+command_id: 7E0.7E8.220415
+test_cases:
+- expected_values:
+    RANGER_PCM_ENG_EOP_RAW: 168
+  response: 7E80562041500A8
+- expected_values:
+    RANGER_PCM_ENG_EOP_RAW: 180
+  response: 7E80562041500B4
+- expected_values:
+    RANGER_PCM_ENG_EOP_RAW: 183
+  response: 7E80562041500B7

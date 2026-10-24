@@ -1,0 +1,11 @@
+command_id: 7E0.7E8.220324
+test_cases:
+- expected_values:
+    RANGER_HPFP_V: 0.65982
+  response: '7E8056203240087'
+- expected_values:
+    RANGER_HPFP_V: 0.66471
+  response: '7E8056203240088'
+- expected_values:
+    RANGER_HPFP_V: 0.67449
+  response: 7E805620324008A

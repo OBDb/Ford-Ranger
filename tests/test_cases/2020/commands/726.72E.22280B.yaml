@@ -1,0 +1,7 @@
+command_id: 726.72E.22280B
+test_cases:
+- expected_values:
+    RANGER_TYRE_T: 17
+  response: |-
+    72E100C62280B6C73B6
+    72E217602C13905E600
