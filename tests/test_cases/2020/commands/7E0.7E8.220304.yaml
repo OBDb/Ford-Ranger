@@ -1,0 +1,11 @@
+command_id: 7E0.7E8.220304
+test_cases:
+- expected_values:
+    RANGER_CMD_GEN_V: 12.54355
+  response: '7E8056203046468'
+- expected_values:
+    RANGER_CMD_GEN_V: 12.57381
+  response: 7E80562030464A6
+- expected_values:
+    RANGER_CMD_GEN_V: 12.63774
+  response: '7E8056203046529'

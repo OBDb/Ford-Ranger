@@ -1,0 +1,11 @@
+command_id: 7E0.7E8.22033E
+test_cases:
+- expected_values:
+    RANGER_TIP_ABS: 13.88676
+  response: 7E80562033E3107
+- expected_values:
+    RANGER_TIP_ABS: 13.90003
+  response: 7E80562033E3113
+- expected_values:
+    RANGER_TIP_ABS: 13.99297
+  response: 7E80562033E3167

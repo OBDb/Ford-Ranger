@@ -1,0 +1,11 @@
+command_id: 7E0.7E8.220548
+test_cases:
+- expected_values:
+    RANGER_LPFP_ACT: 68.96702
+  response: 7E80562054803B7
+- expected_values:
+    RANGER_LPFP_ACT: 69.6197
+  response: 7E80562054803C0
+- expected_values:
+    RANGER_LPFP_ACT: 70.12735
+  response: 7E80562054803C7

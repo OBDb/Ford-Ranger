@@ -1,0 +1,5 @@
+command_id: 7E0.7E8.22F421
+test_cases:
+- expected_values:
+    RANGER_MIL_DIST: 90
+  response: 7E80562F421005A

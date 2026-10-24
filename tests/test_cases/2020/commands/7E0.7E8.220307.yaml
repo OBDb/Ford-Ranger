@@ -1,0 +1,11 @@
+command_id: 7E0.7E8.220307
+test_cases:
+- expected_values:
+    RANGER_LPFP_DUTY: 27.45972
+  response: '7E8056203072326'
+- expected_values:
+    RANGER_LPFP_DUTY: 27.48718
+  response: 7E805620307232F
+- expected_values:
+    RANGER_LPFP_DUTY: 27.70386
+  response: '7E8056203072376'

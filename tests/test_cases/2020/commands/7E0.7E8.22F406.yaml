@@ -1,0 +1,11 @@
+command_id: 7E0.7E8.22F406
+test_cases:
+- expected_values:
+    RANGER_STFT: 0
+  response: 7E80462F40680
+- expected_values:
+    RANGER_STFT: 1.5625
+  response: 7E80462F40682
+- expected_values:
+    RANGER_STFT: 2.34375
+  response: 7E80462F40683

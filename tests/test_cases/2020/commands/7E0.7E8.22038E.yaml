@@ -1,0 +1,11 @@
+command_id: 7E0.7E8.22038E
+test_cases:
+- expected_values:
+    RANGER_EVAP_V: 2.367
+  response: 7E80562038E093F
+- expected_values:
+    RANGER_EVAP_V: 2.487
+  response: 7E80562038E09B7
+- expected_values:
+    RANGER_EVAP_V: 2.662
+  response: 7E80562038E0A66

@@ -1,0 +1,11 @@
+command_id: 7E0.7E8.221126
+test_cases:
+- expected_values:
+    RANGER_ERT: 0
+  response: '7E80462112600'
+- expected_values:
+    RANGER_ERT: 21
+  response: '7E80462112615'
+- expected_values:
+    RANGER_ERT: 51
+  response: '7E80462112633'
