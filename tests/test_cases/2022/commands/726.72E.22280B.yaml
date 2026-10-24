@@ -9,17 +9,22 @@ test_cases:
     RANGER_TYRE_T: 16
   response: |-
     72E100C62280B63349E
+    72E21EE031138464ECC
+- expected_values:
+    RANGER_TYRE_T: 16
+  response: |-
+    72E100C62280B63349E
     72E21EE031638464FCC
 - expected_values:
-    RANGER_TYRE_T: 215
+    RANGER_TYRE_T: null
   response: |-
     72E100C62280B63349E
     72E21EE0320FF4BEECC
 - expected_values:
-    RANGER_TYRE_T: 215
+    RANGER_TYRE_T: 21
   response: |-
     72E100C62280B63349E
-    72E21EE0320FF4BF0CC
+    72E21EE03343D465ACC
 - expected_values:
     RANGER_TYRE_T: 40
   response: |-

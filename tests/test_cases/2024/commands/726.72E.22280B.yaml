@@ -46,7 +46,7 @@ test_cases:
     72E100C62280B60AE35
     72E21D902D53A463DCC
 - expected_values:
-    RANGER_TYRE_T: 215
+    RANGER_TYRE_T: null
   response: |-
     72E100C62280B60AE35
     72E21D902F3FF4BFECC

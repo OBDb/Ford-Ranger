@@ -24,7 +24,7 @@
   ]},
 { "hdr": "726", "rax": "72E", "cmd": {"22": "280B"}, "freq": 5, "dbgfilter": { "to": 2021, "from": 2025 },
   "signals": [
-    {"id": "RANGER_TYRE_T", "path": "Tires", "fmt": {"bix": 48, "len": 8, "max": 215, "min": -40, "add": -40, "unit": "celsius" }, "name": "Tire temperature"}
+    {"id": "RANGER_TYRE_T", "path": "Tires", "fmt": {"bix": 48, "len": 8, "max": 215, "min": -40, "add": -40, "nullmax": 215, "unit": "celsius" }, "name": "Tire temperature"}
   ]},
 { "hdr": "726", "rax": "72E", "cmd": {"22": "2813"}, "freq": 5, "dbgfilter": { "to": 2017, "years": [2020], "from": 2027 },
   "signals": [
