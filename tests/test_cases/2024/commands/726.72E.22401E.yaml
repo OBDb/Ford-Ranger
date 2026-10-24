@@ -12,3 +12,9 @@ test_cases:
 - expected_values:
     RANGER_NORM_CUM_CHG_IGN_ON: 31.5
   response: 72E0562401E013B
+- expected_values:
+    RANGER_NORM_CUM_CHG_IGN_ON: 31.8
+  response: 72E0562401E013E
+- expected_values:
+    RANGER_NORM_CUM_CHG_IGN_ON: 31.9
+  response: 72E0562401E013F

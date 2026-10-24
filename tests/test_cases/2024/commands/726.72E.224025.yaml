@@ -4,5 +4,8 @@ test_cases:
     RANGER_BAT_QUIESCENT: 40
   response: '72E056240250820'
 - expected_values:
+    RANGER_BAT_QUIESCENT: 46
+  response: 72E05624025082C
+- expected_values:
     RANGER_BAT_QUIESCENT: 59
   response: '72E056240250846'
