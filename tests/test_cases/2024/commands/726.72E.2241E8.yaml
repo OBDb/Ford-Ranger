@@ -4,5 +4,5 @@ test_cases:
     RANGER_VEH_BAT_B_V: 12.2
   response: 72E046241E87C
 - expected_values:
-    RANGER_VEH_BAT_B_V: 14.6
-  response: 72E046241E8AC
+    RANGER_VEH_BAT_B_V: 14.75
+  response: 72E046241E8AF
