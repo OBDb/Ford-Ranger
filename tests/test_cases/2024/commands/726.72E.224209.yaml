@@ -4,11 +4,11 @@ test_cases:
     RANGER_BAT_CURRENT: 13.25
   response: '72E0762420900003520'
 - expected_values:
-    RANGER_BAT_CURRENT: 15.75
-  response: 72E0762420900003F00
+    RANGER_BAT_CURRENT: 14.25
+  response: '72E0762420900003900'
 - expected_values:
     RANGER_BAT_CURRENT: 20.5
   response: 72E07624209000052E0
 - expected_values:
-    RANGER_BAT_CURRENT: 45.75
-  response: 72E076242090000B7A0
+    RANGER_BAT_CURRENT: 50
+  response: 72E076242090000C8E0

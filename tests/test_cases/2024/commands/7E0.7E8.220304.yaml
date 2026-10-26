@@ -9,8 +9,11 @@ test_cases:
     7E80562030467D9
     7E80562030467D9
 - expected_values:
-    RANGER_CMD_GEN_V: 13.61618
-  response: 7E8056203046CFE
+    RANGER_CMD_GEN_V: 12.99202
+  response: 7E80562030467FF
 - expected_values:
     RANGER_CMD_GEN_V: 14.61658
   response: '7E8056203047500'
+- expected_values:
+    RANGER_CMD_GEN_V: 14.75858
+  response: '7E8056203047623'

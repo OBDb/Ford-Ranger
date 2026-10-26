@@ -4,5 +4,10 @@ test_cases:
     RANGER_12V_V: 12.2
   response: 72E0462402A7C
 - expected_values:
-    RANGER_12V_V: 14.55
-  response: 72E0462402AAB
+    RANGER_12V_V: 12.85
+  response: |-
+    72E0462402A89
+    72E0462402A89
+- expected_values:
+    RANGER_12V_V: 14.6
+  response: 72E0462402AAC
