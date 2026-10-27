@@ -13,5 +13,10 @@ test_cases:
     RANGER_BAT_QUIESCENT: 48
   response: '72E056240250830'
 - expected_values:
+    RANGER_BAT_QUIESCENT: 57
+  response: |-
+    72E056240250842
+    72E056240250842
+- expected_values:
     RANGER_BAT_QUIESCENT: 59
   response: '72E056240250846'
