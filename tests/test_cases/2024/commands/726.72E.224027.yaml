@@ -12,3 +12,6 @@ test_cases:
 - expected_values:
     RANGER_12V_AGE: 15360
   response: '72E056240270280'
+- expected_values:
+    RANGER_12V_AGE: 15384
+  response: '72E056240270281'
