@@ -4,8 +4,17 @@ test_cases:
     RANGER_FLI: 46.66667
   response: '7280462618577'
 - expected_values:
+    RANGER_FLI: 47.84314
+  response: 728046261857A
+- expected_values:
     RANGER_FLI: 49.80392
   response: 728046261857F
+- expected_values:
+    RANGER_FLI: 52.94118
+  response: '7280462618587'
+- expected_values:
+    RANGER_FLI: 53.72549
+  response: '7280462618589'
 - expected_values:
     RANGER_FLI: 55.68627
   response: 728046261858E
