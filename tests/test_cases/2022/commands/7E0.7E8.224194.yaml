@@ -10,5 +10,5 @@ test_cases:
     RANGER_DTE: 25.7
   response: '7E8056241940101'
 - expected_values:
-    RANGER_DTE: 392
-  response: 7E8056241940F50
+    RANGER_DTE: 391
+  response: 7E8056241940F46
