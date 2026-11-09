@@ -9,3 +9,6 @@ test_cases:
 - expected_values:
     RANGER_DTE: 409.6
   response: '7E8056241941000'
+- expected_values:
+    RANGER_DTE: 435.5
+  response: '7E8056241941103'
