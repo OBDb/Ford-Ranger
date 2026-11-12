@@ -84,6 +84,22 @@ test_cases:
     7E803410F4E
     7E80341067B
 - expected_values:
+    LOAD_ABS: 31.37255
+  response: |-
+    7E80441430051
+    7E804414482F7
+    7E804415E002B
+    7E803410B32
+    7E80341067A
+    7E80441430050
+    7E80662DD01009F0D
+    7E804410C0D29
+- expected_values:
+    LOAD_ABS: 59.60784
+  response: |-
+    7E80441430098
+    7E80441430098
+- expected_values:
     LOAD_ABS: 100
   response: 7E804414300FF
 - expected_values:
