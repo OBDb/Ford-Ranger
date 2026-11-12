@@ -4,6 +4,27 @@ test_cases:
     TP: 10.98039
   response: 7E80341111C
 - expected_values:
+    TP: 12.15686
+  response: |-
+    7E80341111F
+    7E803410F45
+    7E806419D000E000E
+    7E803410680
+    7E804415E001B
+    7E8044143002C
+    7E804410C0D30
+    7E804411F035A
+    7E803410D00
+    7E8044144821D
+    7E803410B1E
+    7E803413363
+    7E803410F45
+- expected_values:
+    TP: 12.54902
+  response: |-
+    7E803411120
+    7E803410F4C
+- expected_values:
     TP: 19.60784
   response: |-
     7E803411132
@@ -13,6 +34,13 @@ test_cases:
   response: |-
     7E803411147
     7E803411147
+- expected_values:
+    TP: 30.19608
+  response: |-
+    7E80341114D
+    7E803410B58
+    7E803412FFE
+    7E80441447D8A
 - expected_values:
     TP: 90.58824
   response: 7E8034111E7
