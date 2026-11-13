@@ -37,6 +37,23 @@ test_cases:
     7E804415E009E
     7E803410B59
 - expected_values:
+    ODO: 40725.4
+  response: |-
+    7E80641A6000636D6
+    7E803410D1A
+- expected_values:
+    ODO: 40729.2
+  response: |-
+    7E80641A6000636FC
+    7E803410B30
+    7E80441430039
+    7E803410F3F
+    7E804410C18DC
+    7E803412FF5
+    7E80441447BF0
+    7E806419D00260026
+    7E803410D48
+- expected_values:
     ODO: 41321
   response: 7E80641A600064E1A
 - expected_values:

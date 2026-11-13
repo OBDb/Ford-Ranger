@@ -23,8 +23,14 @@ supported_commands_by_ecu:
   - 726.72E.22423C:RANGER_VEH_BAT_B_CURRENT
   "7DF":
   - 7DF.0104
+  - 7DF.0105
   - 7DF.010C
   - 7DF.010D
+  - 7DF.0111
+  - 7DF.0131
+  - 7DF.0134
+  - 7DF.0143
+  - 7DF.015E
   - 7DF.01A6
   - 7DF.221E12
   - 7DF.221E1C
@@ -305,7 +311,6 @@ unsupported_commands_by_ecu:
   "7D0":
   - 7D0.7D8.228012:RANGER_SYNC_GPS_ALTITUDE,RANGER_SYNC_GPS_HEADING,RANGER_SYNC_GPS_SPD
   "7DF":
-  - 7DF.0143
   - 7DF.221310
   - 7DF.22F45C
   "7E0":
