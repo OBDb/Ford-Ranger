@@ -14,3 +14,6 @@ test_cases:
   response: |-
     72E0562402600CA
     72E0562402600CA
+- expected_values:
+    RANGER_NORM_CUM_DCHG_BAT_OFF: 20.4
+  response: 72E0562402600CC
