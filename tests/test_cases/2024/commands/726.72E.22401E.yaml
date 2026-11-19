@@ -4,29 +4,5 @@ test_cases:
     RANGER_NORM_CUM_CHG_IGN_ON: 30.3
   response: 72E0562401E012F
 - expected_values:
-    RANGER_NORM_CUM_CHG_IGN_ON: 30.4
-  response: 72E0562401E0130
-- expected_values:
-    RANGER_NORM_CUM_CHG_IGN_ON: 31.4
-  response: 72E0562401E013A
-- expected_values:
-    RANGER_NORM_CUM_CHG_IGN_ON: 31.5
-  response: 72E0562401E013B
-- expected_values:
-    RANGER_NORM_CUM_CHG_IGN_ON: 31.8
-  response: 72E0562401E013E
-- expected_values:
-    RANGER_NORM_CUM_CHG_IGN_ON: 31.9
-  response: 72E0562401E013F
-- expected_values:
-    RANGER_NORM_CUM_CHG_IGN_ON: 32
-  response: 72E0562401E0140
-- expected_values:
-    RANGER_NORM_CUM_CHG_IGN_ON: 32.1
-  response: 72E0562401E0141
-- expected_values:
-    RANGER_NORM_CUM_CHG_IGN_ON: 32.3
-  response: 72E0562401E0143
-- expected_values:
-    RANGER_NORM_CUM_CHG_IGN_ON: 32.4
-  response: 72E0562401E0144
+    RANGER_NORM_CUM_CHG_IGN_ON: 32.5
+  response: 72E0562401E0145
