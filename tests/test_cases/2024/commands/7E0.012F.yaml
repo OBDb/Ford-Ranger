@@ -4,6 +4,12 @@ test_cases:
     FLI: 6.27451
   response: 7E803412F10
 - expected_values:
+    FLI: 41.96078
+  response: 7E803412F6B
+- expected_values:
+    FLI: 42.7451
+  response: 7E803412F6D
+- expected_values:
     FLI: 85.09804
   response: 7E803412FD9
 - expected_values:
