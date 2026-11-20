@@ -20,3 +20,6 @@ test_cases:
 - expected_values:
     RANGER_NORM_CUM_DCHG_BAT_OFF: 20.5
   response: 72E0562402600CD
+- expected_values:
+    RANGER_NORM_CUM_DCHG_BAT_OFF: 20.6
+  response: 72E0562402600CE
