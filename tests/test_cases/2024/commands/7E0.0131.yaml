@@ -200,11 +200,11 @@ test_cases:
     7E806419D00680068
     7E804411F064D
 - expected_values:
-    CLR_DIST: 5375
-  response: 7E804413114FF
+    CLR_DIST: 767
+  response: 7E804413102FF
 - expected_values:
-    CLR_DIST: 6912
-  response: 7E80441311B00
+    CLR_DIST: 768
+  response: '7E80441310300'
 - expected_values:
     CLR_DIST: 23135
   response: 7E80441315A5F
