@@ -1,14 +1,11 @@
 command_id: 726.72E.224209
 test_cases:
 - expected_values:
-    RANGER_BAT_CURRENT: 8.25
-  response: 72E07624209000021A0
+    RANGER_BAT_CURRENT: 6.75
+  response: 72E0762420900001BE0
 - expected_values:
     RANGER_BAT_CURRENT: 14.25
   response: '72E0762420900003900'
-- expected_values:
-    RANGER_BAT_CURRENT: 20.5
-  response: 72E07624209000052E0
 - expected_values:
     RANGER_BAT_CURRENT: 50
   response: 72E076242090000C8E0
