@@ -6,3 +6,6 @@ test_cases:
 - expected_values:
     RANGER_PCM_ENG_OIL_LIFE_REM: 64
   response: 7E80462054B40
+- expected_values:
+    RANGER_PCM_ENG_OIL_LIFE_REM: 84
+  response: 7E80462054B54
