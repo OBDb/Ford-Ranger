@@ -1,0 +1,29 @@
+command_id: 7E0.7E8.220370
+test_cases:
+- expected_values:
+    RANGER_MAP_HIRES: 22.75
+  response: 7E805620370005B
+- expected_values:
+    RANGER_MAP_HIRES: 30
+  response: '7E8056203700078'
+- expected_values:
+    RANGER_MAP_HIRES: 37
+  response: '7E8056203700094'
+- expected_values:
+    RANGER_MAP_HIRES: 40
+  response: 7E80562037000A0
+- expected_values:
+    RANGER_MAP_HIRES: 45.75
+  response: 7E80562037000B7
+- expected_values:
+    RANGER_MAP_HIRES: 68.75
+  response: '7E8056203700113'
+- expected_values:
+    RANGER_MAP_HIRES: 71.5
+  response: 7E805620370011E
+- expected_values:
+    RANGER_MAP_HIRES: 74.25
+  response: '7E8056203700129'
+- expected_values:
+    RANGER_MAP_HIRES: 82.75
+  response: 7E805620370014B

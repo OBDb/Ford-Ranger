@@ -1,0 +1,29 @@
+command_id: 7E0.7E8.22F4A6
+test_cases:
+- expected_values:
+    RANGER_PCM_VEH_ODO: 18717.6
+  response: 7E80762F4A60002DB28
+- expected_values:
+    RANGER_PCM_VEH_ODO: 18718
+  response: 7E80762F4A60002DB2C
+- expected_values:
+    RANGER_PCM_VEH_ODO: 18718.7
+  response: 7E80762F4A60002DB33
+- expected_values:
+    RANGER_PCM_VEH_ODO: 18718.8
+  response: 7E80762F4A60002DB34
+- expected_values:
+    RANGER_PCM_VEH_ODO: 18719
+  response: 7E80762F4A60002DB36
+- expected_values:
+    RANGER_PCM_VEH_ODO: 18719.3
+  response: 7E80762F4A60002DB39
+- expected_values:
+    RANGER_PCM_VEH_ODO: 18719.6
+  response: 7E80762F4A60002DB3C
+- expected_values:
+    RANGER_PCM_VEH_ODO: 18720
+  response: 7E80762F4A60002DB40
+- expected_values:
+    RANGER_PCM_VEH_ODO: 18720.5
+  response: 7E80762F4A60002DB45

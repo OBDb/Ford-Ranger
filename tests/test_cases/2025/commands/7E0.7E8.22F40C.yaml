@@ -1,0 +1,32 @@
+command_id: 7E0.7E8.22F40C
+test_cases:
+- expected_values:
+    RANGER_RPM: 659.25
+  response: 7E80562F40C0A4D
+- expected_values:
+    RANGER_RPM: 662.25
+  response: 7E80562F40C0A59
+- expected_values:
+    RANGER_RPM: 1052.25
+  response: 7E80562F40C1071
+- expected_values:
+    RANGER_RPM: 1146
+  response: 7E80562F40C11E8
+- expected_values:
+    RANGER_RPM: 1231.25
+  response: 7E80562F40C133D
+- expected_values:
+    RANGER_RPM: 1295.5
+  response: 7E80562F40C143E
+- expected_values:
+    RANGER_RPM: 1546
+  response: 7E80562F40C1828
+- expected_values:
+    RANGER_RPM: 1935.75
+  response: 7E80562F40C1E3F
+- expected_values:
+    RANGER_RPM: 1954.75
+  response: 7E80562F40C1E8B
+- expected_values:
+    RANGER_RPM: 2291.5
+  response: 7E80562F40C23CE

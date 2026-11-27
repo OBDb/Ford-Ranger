@@ -1,0 +1,29 @@
+command_id: 7E0.7E8.221166
+test_cases:
+- expected_values:
+    RANGER_EVAP_PURGE_CMD: 0
+  response: '7E8056211660000'
+- expected_values:
+    RANGER_EVAP_PURGE_CMD: 5.87463
+  response: '7E8056211660785'
+- expected_values:
+    RANGER_EVAP_PURGE_CMD: 6.66809
+  response: '7E8056211660889'
+- expected_values:
+    RANGER_EVAP_PURGE_CMD: 6.86035
+  response: 7E80562116608C8
+- expected_values:
+    RANGER_EVAP_PURGE_CMD: 9.40247
+  response: 7E8056211660C09
+- expected_values:
+    RANGER_EVAP_PURGE_CMD: 9.68628
+  response: 7E8056211660C66
+- expected_values:
+    RANGER_EVAP_PURGE_CMD: 63.96484
+  response: 7E80562116651E0
+- expected_values:
+    RANGER_EVAP_PURGE_CMD: 76.32446
+  response: 7E80562116661B2
+- expected_values:
+    RANGER_EVAP_PURGE_CMD: 86.51428
+  response: 7E8056211666EBD

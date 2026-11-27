@@ -1,0 +1,32 @@
+command_id: 7E0.7E8.22116B
+test_cases:
+- expected_values:
+    RANGER_IGN_TIM_CYL1: 5
+  response: 7E80562116B0014
+- expected_values:
+    RANGER_IGN_TIM_CYL1: 6.75
+  response: 7E80562116B001B
+- expected_values:
+    RANGER_IGN_TIM_CYL1: 8.75
+  response: 7E80562116B0023
+- expected_values:
+    RANGER_IGN_TIM_CYL1: 19.75
+  response: 7E80562116B004F
+- expected_values:
+    RANGER_IGN_TIM_CYL1: 20.25
+  response: 7E80562116B0051
+- expected_values:
+    RANGER_IGN_TIM_CYL1: 24.75
+  response: 7E80562116B0063
+- expected_values:
+    RANGER_IGN_TIM_CYL1: 25
+  response: 7E80562116B0064
+- expected_values:
+    RANGER_IGN_TIM_CYL1: 25.25
+  response: 7E80562116B0065
+- expected_values:
+    RANGER_IGN_TIM_CYL1: 31
+  response: 7E80562116B007C
+- expected_values:
+    RANGER_IGN_TIM_CYL1: -2.5
+  response: 7E80562116BFFF6

@@ -1,0 +1,32 @@
+command_id: 7E0.7E8.220334
+test_cases:
+- expected_values:
+    RANGER_PCM_CYL_HEAD_T_CORR: 85.39062
+  response: '7E8056203341559'
+- expected_values:
+    RANGER_PCM_CYL_HEAD_T_CORR: 85.79688
+  response: '7E8056203341573'
+- expected_values:
+    RANGER_PCM_CYL_HEAD_T_CORR: 85.95312
+  response: 7E805620334157D
+- expected_values:
+    RANGER_PCM_CYL_HEAD_T_CORR: 86.125
+  response: '7E8056203341588'
+- expected_values:
+    RANGER_PCM_CYL_HEAD_T_CORR: 86.21875
+  response: 7E805620334158E
+- expected_values:
+    RANGER_PCM_CYL_HEAD_T_CORR: 86.25
+  response: '7E8056203341590'
+- expected_values:
+    RANGER_PCM_CYL_HEAD_T_CORR: 86.29688
+  response: '7E8056203341593'
+- expected_values:
+    RANGER_PCM_CYL_HEAD_T_CORR: 86.42188
+  response: 7E805620334159B
+- expected_values:
+    RANGER_PCM_CYL_HEAD_T_CORR: 87
+  response: 7E80562033415C0
+- expected_values:
+    RANGER_PCM_CYL_HEAD_T_CORR: 87.70312
+  response: 7E80562033415ED

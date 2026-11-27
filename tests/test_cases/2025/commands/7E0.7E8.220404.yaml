@@ -1,0 +1,29 @@
+command_id: 7E0.7E8.220404
+test_cases:
+- expected_values:
+    RANGER_KS2_RAW: 18
+  response: '7E8056204040012'
+- expected_values:
+    RANGER_KS2_RAW: 19
+  response: '7E8056204040013'
+- expected_values:
+    RANGER_KS2_RAW: 26
+  response: 7E805620404001A
+- expected_values:
+    RANGER_KS2_RAW: 28
+  response: 7E805620404001C
+- expected_values:
+    RANGER_KS2_RAW: 29
+  response: 7E805620404001D
+- expected_values:
+    RANGER_KS2_RAW: 35
+  response: '7E8056204040023'
+- expected_values:
+    RANGER_KS2_RAW: 38
+  response: '7E8056204040026'
+- expected_values:
+    RANGER_KS2_RAW: 47
+  response: 7E805620404002F
+- expected_values:
+    RANGER_KS2_RAW: 50
+  response: '7E8056204040032'

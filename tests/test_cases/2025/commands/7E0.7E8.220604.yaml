@@ -1,0 +1,26 @@
+command_id: 7E0.7E8.220604
+test_cases:
+- expected_values:
+    RANGER_PCM_A_C_REFRIG_P: 673
+  response: 7E80562060402A1
+- expected_values:
+    RANGER_PCM_A_C_REFRIG_P: 677
+  response: 7E80562060402A5
+- expected_values:
+    RANGER_PCM_A_C_REFRIG_P: 698
+  response: 7E80562060402BA
+- expected_values:
+    RANGER_PCM_A_C_REFRIG_P: 711
+  response: 7E80562060402C7
+- expected_values:
+    RANGER_PCM_A_C_REFRIG_P: 715
+  response: 7E80562060402CB
+- expected_values:
+    RANGER_PCM_A_C_REFRIG_P: 760
+  response: 7E80562060402F8
+- expected_values:
+    RANGER_PCM_A_C_REFRIG_P: 765
+  response: 7E80562060402FD
+- expected_values:
+    RANGER_PCM_A_C_REFRIG_P: 881
+  response: '7E8056206040371'

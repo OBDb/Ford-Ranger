@@ -1,0 +1,32 @@
+command_id: 7E0.7E8.220415
+test_cases:
+- expected_values:
+    RANGER_PCM_ENG_EOP_RAW: 261
+  response: '7E8056204150105'
+- expected_values:
+    RANGER_PCM_ENG_EOP_RAW: 262
+  response: '7E8056204150106'
+- expected_values:
+    RANGER_PCM_ENG_EOP_RAW: 266
+  response: 7E805620415010A
+- expected_values:
+    RANGER_PCM_ENG_EOP_RAW: 270
+  response: 7E805620415010E
+- expected_values:
+    RANGER_PCM_ENG_EOP_RAW: 301
+  response: 7E805620415012D
+- expected_values:
+    RANGER_PCM_ENG_EOP_RAW: 315
+  response: 7E805620415013B
+- expected_values:
+    RANGER_PCM_ENG_EOP_RAW: 316
+  response: 7E805620415013C
+- expected_values:
+    RANGER_PCM_ENG_EOP_RAW: 328
+  response: '7E8056204150148'
+- expected_values:
+    RANGER_PCM_ENG_EOP_RAW: 343
+  response: '7E8056204150157'
+- expected_values:
+    RANGER_PCM_ENG_EOP_RAW: 388
+  response: '7E8056204150184'
