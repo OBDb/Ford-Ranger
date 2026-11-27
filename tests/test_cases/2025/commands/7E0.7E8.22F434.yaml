@@ -1,0 +1,32 @@
+command_id: 7E0.7E8.22F434
+test_cases:
+- expected_values:
+    RANGER_AIR_FUEL_RAT: 12.66284
+  response: 7E80762F4346EB67F8B
+- expected_values:
+    RANGER_AIR_FUEL_RAT: 14.44596
+  response: 7E80762F4347E4D7FF4
+- expected_values:
+    RANGER_AIR_FUEL_RAT: 14.47277
+  response: 7E80762F4347E897FEE
+- expected_values:
+    RANGER_AIR_FUEL_RAT: 14.9075
+  response: 7E80762F43482568006
+- expected_values:
+    RANGER_AIR_FUEL_RAT: 14.94234
+  response: 7E80762F43482A48006
+- expected_values:
+    RANGER_AIR_FUEL_RAT: 15.16976
+  response: 7E80762F43484A1800B
+- expected_values:
+    RANGER_AIR_FUEL_RAT: 15.27609
+  response: 7E80762F434858F8011
+- expected_values:
+    RANGER_AIR_FUEL_RAT: 15.51602
+  response: 7E80762F43487A8802B
+- expected_values:
+    RANGER_AIR_FUEL_RAT: 28.53048
+  response: 7E80762F434F97181A7
+- expected_values:
+    RANGER_AIR_FUEL_RAT: 29.2801
+  response: 7E80762F434FFFF8251

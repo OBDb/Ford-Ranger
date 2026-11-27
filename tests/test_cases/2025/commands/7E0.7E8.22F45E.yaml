@@ -1,0 +1,32 @@
+command_id: 7E0.7E8.22F45E
+test_cases:
+- expected_values:
+    RANGER_ENG_FUEL_RATE: 1.25
+  response: 7E80562F45E0019
+- expected_values:
+    RANGER_ENG_FUEL_RATE: 1.75
+  response: 7E80562F45E0023
+- expected_values:
+    RANGER_ENG_FUEL_RATE: 1.8
+  response: 7E80562F45E0024
+- expected_values:
+    RANGER_ENG_FUEL_RATE: 1.95
+  response: 7E80562F45E0027
+- expected_values:
+    RANGER_ENG_FUEL_RATE: 2.15
+  response: 7E80562F45E002B
+- expected_values:
+    RANGER_ENG_FUEL_RATE: 2.25
+  response: 7E80562F45E002D
+- expected_values:
+    RANGER_ENG_FUEL_RATE: 5.1
+  response: 7E80562F45E0066
+- expected_values:
+    RANGER_ENG_FUEL_RATE: 6.65
+  response: 7E80562F45E0085
+- expected_values:
+    RANGER_ENG_FUEL_RATE: 8.85
+  response: 7E80562F45E00B1
+- expected_values:
+    RANGER_ENG_FUEL_RATE: 10.05
+  response: 7E80562F45E00C9

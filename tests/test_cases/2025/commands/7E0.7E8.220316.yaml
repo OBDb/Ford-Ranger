@@ -1,0 +1,20 @@
+command_id: 7E0.7E8.220316
+test_cases:
+- expected_values:
+    RANGER_VCT_INT_DUTY: 0
+  response: '7E8056203160000'
+- expected_values:
+    RANGER_VCT_INT_DUTY: 36.8103
+  response: 7E8056203162F1E
+- expected_values:
+    RANGER_VCT_INT_DUTY: 37.93335
+  response: 7E805620316308E
+- expected_values:
+    RANGER_VCT_INT_DUTY: 38.46436
+  response: 7E805620316313C
+- expected_values:
+    RANGER_VCT_INT_DUTY: 38.63525
+  response: '7E8056203163174'
+- expected_values:
+    RANGER_VCT_INT_DUTY: 38.87329
+  response: 7E80562031631C2

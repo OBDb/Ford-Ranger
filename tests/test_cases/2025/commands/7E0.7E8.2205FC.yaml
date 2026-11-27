@@ -1,0 +1,32 @@
+command_id: 7E0.7E8.2205FC
+test_cases:
+- expected_values:
+    RANGER_PCM_CYL_HEAD_T_SENS_2_RAW: 87.4375
+  response: 7E8056205FC15DC
+- expected_values:
+    RANGER_PCM_CYL_HEAD_T_SENS_2_RAW: 87.78125
+  response: 7E8056205FC15F2
+- expected_values:
+    RANGER_PCM_CYL_HEAD_T_SENS_2_RAW: 88.39062
+  response: 7E8056205FC1619
+- expected_values:
+    RANGER_PCM_CYL_HEAD_T_SENS_2_RAW: 88.65625
+  response: 7E8056205FC162A
+- expected_values:
+    RANGER_PCM_CYL_HEAD_T_SENS_2_RAW: 88.84375
+  response: 7E8056205FC1636
+- expected_values:
+    RANGER_PCM_CYL_HEAD_T_SENS_2_RAW: 89.01562
+  response: 7E8056205FC1641
+- expected_values:
+    RANGER_PCM_CYL_HEAD_T_SENS_2_RAW: 89.89062
+  response: 7E8056205FC1679
+- expected_values:
+    RANGER_PCM_CYL_HEAD_T_SENS_2_RAW: 90.53125
+  response: 7E8056205FC16A2
+- expected_values:
+    RANGER_PCM_CYL_HEAD_T_SENS_2_RAW: 91.64062
+  response: 7E8056205FC16E9
+- expected_values:
+    RANGER_PCM_CYL_HEAD_T_SENS_2_RAW: 95.14062
+  response: 7E8056205FC17C9

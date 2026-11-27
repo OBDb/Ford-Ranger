@@ -1,0 +1,29 @@
+command_id: 726.72E.224209
+test_cases:
+- expected_values:
+    RANGER_BAT_CURRENT: 42.75
+  response: 72E076242090000AB00
+- expected_values:
+    RANGER_BAT_CURRENT: 43.25
+  response: 72E076242090000AD60
+- expected_values:
+    RANGER_BAT_CURRENT: 43.5
+  response: 72E076242090000AE00
+- expected_values:
+    RANGER_BAT_CURRENT: 43.75
+  response: 72E076242090000AF20
+- expected_values:
+    RANGER_BAT_CURRENT: 44.5
+  response: 72E076242090000B260
+- expected_values:
+    RANGER_BAT_CURRENT: 45.5
+  response: 72E076242090000B620
+- expected_values:
+    RANGER_BAT_CURRENT: 47.75
+  response: 72E076242090000BF60
+- expected_values:
+    RANGER_BAT_CURRENT: 53
+  response: 72E076242090000D4E0
+- expected_values:
+    RANGER_BAT_CURRENT: 53.5
+  response: 72E076242090000D6A0

@@ -1,0 +1,29 @@
+command_id: 7E0.7E8.22F40B
+test_cases:
+- expected_values:
+    RANGER_MAP: 3.19086
+  response: 7E80462F40B16
+- expected_values:
+    RANGER_MAP: 3.3359
+  response: 7E80462F40B17
+- expected_values:
+    RANGER_MAP: 5.65652
+  response: 7E80462F40B27
+- expected_values:
+    RANGER_MAP: 6.52675
+  response: 7E80462F40B2D
+- expected_values:
+    RANGER_MAP: 7.54203
+  response: 7E80462F40B34
+- expected_values:
+    RANGER_MAP: 7.97714
+  response: 7E80462F40B37
+- expected_values:
+    RANGER_MAP: 9.28249
+  response: 7E80462F40B40
+- expected_values:
+    RANGER_MAP: 11.02296
+  response: 7E80462F40B4C
+- expected_values:
+    RANGER_MAP: 12.32831
+  response: 7E80462F40B55

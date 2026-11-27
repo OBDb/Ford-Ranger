@@ -1,0 +1,14 @@
+command_id: 7E0.7E8.22F431
+test_cases:
+- expected_values:
+    RANGER_DIST_DTC_CLR: 10516
+  response: 7E80562F4312914
+- expected_values:
+    RANGER_DIST_DTC_CLR: 10517
+  response: 7E80562F4312915
+- expected_values:
+    RANGER_DIST_DTC_CLR: 10518
+  response: 7E80562F4312916
+- expected_values:
+    RANGER_DIST_DTC_CLR: 10519
+  response: 7E80562F4312917
